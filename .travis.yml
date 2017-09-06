@@ -1,0 +1,45 @@
+dist: trusty
+sudo: false
+
+# Add encrypted API key
+env:
+  global:
+    - secure: EfE29h0eTOJfjsXq8vbobFc0U16z6y3YENp0m105nll5siBdMpv3RKweKTOKOUeL84he6eDAX/lVJdjMPeSOTPRCHcuReulF90iEYMrNLW2cZCXmtGHdGzB27NRh7nOdgcvx4lxJmsHa0jMo4bVfxVb9ktzjO3r6ERABx4b01a6yvWLKP8uT7q7yR2LLDPf0/8JuCfrxc9rdh5NucCRiGWdO7sixfulY57ZDa2fzJgF2okgzfC8RtuinXvgJPppbLu9Mx/HBdPKDX0b12m2GWmEyWYM6JD+P7IPtxgQzU1MitQUfG77to0L1+i/fxCFAHyk6NVYpYeLL9jFKgJ5nWpeuaiaKIvzzH+aSYaHOoYF1oxH33dXlL4BqApIm90Fc6j3/ZTgJmAKE5GTDcvDy5q1L99ScdlkX0K07b36rbFulE4nivCvgusw4MnK4LZLWgMAqFG4i/RuJVaDd5LqNwcdXis51cfyxO9RVtZaVA0rYV7kRgaJJO1GeRZuCkcJ8P7OzO2qR3zt0jhkQ64xxfoJsTXlaRS9d1u2E9LBUugE8PRLN8flnUGFkRZdkIezHjKnvRC4P97y9ew1z5FgFidp8OAqGbZojd5NGOb95Ce0yFUY0qWFKmXUdSgeT2PbXWt8twqUvIkzC4lULECN9gSCVA9vSo+RkzKd8cCG07hU=
+
+# Get the latest version of the Geometrize submodule, and push it to the remote (if necessary)
+before_install:
+  - chmod +x ./travis_update_geometrize_submodule.sh
+  - ./travis_update_geometrize_submodule.sh
+
+  
+# Blacklist
+branches:
+  only:
+    - master
+
+# Install dependencies
+addons:
+  apt:
+    packages:
+      - doxygen
+      - doxygen-doc
+      - doxygen-latex
+      - doxygen-gui
+      - graphviz
+
+# Build the documentation
+script:
+  - pushd doxygen
+  - doxygen doxygen_config
+  - popd
+
+# Deploy the generated documentation using Travis builtin GitHub Pages support
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: $TRAVIS_BUILD_DIR/docs/
+  github_token: $GITHUB_API_KEY
+  # Sets the CNAME file for the custom domain (not enough to just set it on the Github page settings)
+  fqdn: appdocs.geometrize.co.uk
+  on:
+    branch: master
