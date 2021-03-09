@@ -1,0 +1,4 @@
+<map id="geometrize::preferences::GlobalPreferences::getLocaleName" name="geometrize::preferences::GlobalPreferences::getLocaleName">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_language_select_widget_1_1_language_select_widget_impl.html#a0acd3c547f74e3f3ba16cb222d084d74" title="geometrize::dialog\l::LanguageSelectWidget\l::LanguageSelectWidgetImpl\l::populateUi" alt="" coords="291,5,480,75"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_language_select_widget_1_1_language_select_widget_impl.html#ad974c440b87a6fbe18e00040af39e18b" title="geometrize::dialog\l::LanguageSelectWidget\l::LanguageSelectWidgetImpl\l::onLanguageChange" alt="" coords="528,5,717,75"/>
+</map>

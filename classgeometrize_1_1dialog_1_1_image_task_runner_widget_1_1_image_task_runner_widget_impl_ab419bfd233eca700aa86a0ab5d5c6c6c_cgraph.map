@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::setMutationsPerCandidateShape" name="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::setMutationsPerCandidateShape">
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task.html#a7732b8ba0a44b16296000eee7add86f8" title="getPreferences Gets a reference to the current preferences of this task. " alt="" coords="275,5,467,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#acd9c76e6a8583c909b478ecfa8f18405" title="geometrize::preferences\l::ImageTaskPreferences\l::setMaxShapeMutations" alt="" coords="287,69,454,125"/>
+</map>

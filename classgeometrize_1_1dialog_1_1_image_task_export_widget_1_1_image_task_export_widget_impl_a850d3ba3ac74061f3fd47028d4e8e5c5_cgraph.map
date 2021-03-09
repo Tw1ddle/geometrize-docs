@@ -1,0 +1,9 @@
+<map id="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl::saveRasterizedSVGs" name="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl::saveRasterizedSVGs">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a58e1ddc3733a51e88a9250571ed6f5ba" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::showExportMisconfiguredMessage" alt="" coords="254,5,487,75"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1common_1_1ui.html#a520584dd4c61d2ba96b7494462ce919f" title="geometrize::common\l::ui::openSaveRasterizedSVGs\lPathPickerDialog" alt="" coords="269,100,473,156"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1task_1_1_image_task.html#a9ad319bc7a5b889250fa9c0d58e678c5" title="getCurrent Gets the current bitmap. " alt="" coords="275,179,467,221"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1exporter.html#a15adc0c3cede9d9470c80c744ec861dc" title="exportRasterizedSvgs Exports the shape data to images by rasterizing SVGs rendered from the shape dat..." alt="" coords="291,245,450,286"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1exporter.html#a0a7580974d660e3db3f62cb34a6e8b4f" title="exportRasterizedSvg Exports the shape data as an image by rasterizing an SVG rendered from the shape ..." alt="" coords="536,245,688,286"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1exporter.html#ab0d675d519df9d1de8c22f8f522f6285" title="renderSvgShapeDataToImage Renders the given shape data to an image via an SVG. " alt="" coords="736,211,941,253"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1exporter.html#a6a508b358e88c41f55cf8ae8075d3f6d" title="exportImage Exports the image data to an image format that Qt supports (depending on the file extensi..." alt="" coords="768,277,909,318"/>
+</map>

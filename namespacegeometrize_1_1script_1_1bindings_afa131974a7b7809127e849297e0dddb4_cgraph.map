@@ -1,0 +1,10 @@
+<map id="geometrize::script::bindings::createUserInterfacePuppeteerBindings" name="geometrize::script::bindings::createUserInterfacePuppeteerBindings">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script_1_1bindings.html#ac4eb290bdef2168ac1b9711e97f26820" title="geometrize::script\l::bindings::getCursorX" alt="" coords="291,5,443,46"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script_1_1bindings.html#a571b89f747c6629d20a7ee10cc293ad1" title="geometrize::script\l::bindings::getCursorY" alt="" coords="291,70,443,111"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script_1_1bindings.html#a31a422d3e6fb350432431b2e59f5eedd" title="geometrize::script\l::bindings::setCursorPos" alt="" coords="283,135,450,177"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1script_1_1bindings.html#ab5b01531d40004a96d8110503463a05f" title="geometrize::script\l::bindings::saveWidgetScreenshot" alt="" coords="256,201,477,242"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#ab8a7eff2d4c631aa492ba3382a36aad4" title="getCursorX Gets the x&#45;coordinate of the cursor in global screen coordinates. " alt="" coords="533,12,718,39"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1util.html#a7081e11ef19a5b5b73534184d529148d" title="getCursorY Gets the y&#45;coordinate of the cursor in global screen coordinates. " alt="" coords="533,77,718,104"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1util.html#ac0e757a93bba4caec6c479c227c9c34e" title="setCursorPos Sets the cursor position in global screen coordinates. " alt="" coords="526,143,725,169"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1util.html#a41239398bec724855b8b69e31b85db95" title="saveWidgetScreenshot Takes a screenshot of the given widget and saves it as a .png image to the given..." alt="" coords="531,201,719,242"/>
+</map>

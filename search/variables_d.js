@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['scriptsenabledkey',['scriptsEnabledKey',['../classgeometrize_1_1serialization_1_1_image_task_preferences_data.html#aa705c66f7ef03243eaa5f0a3c1a9817b',1,'geometrize::serialization::ImageTaskPreferencesData']]],
+  ['scriptskey',['scriptsKey',['../classgeometrize_1_1serialization_1_1_image_task_preferences_data.html#ad45ac43539a23eaa568fa51e0ea40308',1,'geometrize::serialization::ImageTaskPreferencesData']]],
+  ['shapealphakey',['shapeAlphaKey',['../classgeometrize_1_1serialization_1_1_image_task_preferences_data.html#afa44e739ba84df490f0acbc29ce1930e',1,'geometrize::serialization::ImageTaskPreferencesData']]],
+  ['shapecountkey',['shapeCountKey',['../classgeometrize_1_1serialization_1_1_image_task_preferences_data.html#a7aff1adc9ac33513083770e6559b69e0',1,'geometrize::serialization::ImageTaskPreferencesData']]],
+  ['shapetypeskey',['shapeTypesKey',['../classgeometrize_1_1serialization_1_1_image_task_preferences_data.html#a8d61ccbc4006a15cb72447d44812265f',1,'geometrize::serialization::ImageTaskPreferencesData']]],
+  ['shouldautoloadimagetasksettingskey',['shouldAutoLoadImageTaskSettingsKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a2ce2e2a2b9c8c49d52ebb6922ab27174',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldautosaveimagetasksettingskey',['shouldAutoSaveImageTaskSettingsKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a40bb9a8795383fbbae8bdb241342459f',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldgeometrizeapplogoonlaunchkey',['shouldGeometrizeAppLogoOnLaunchKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a0b530bc3440cbd46f57c633dbf72cab3',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldpopulaterecentitemsonlaunchkey',['shouldPopulateRecentItemsOnLaunchKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#ade0427ea7c96f725e1211a878aec4b42',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldpopulatetemplatesonlaunchkey',['shouldPopulateTemplatesOnLaunchKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a5f764cf587a24764328f7bb8340b58a2',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldshowimagetaskconsolebydefaultkey',['shouldShowImageTaskConsoleByDefaultKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a2b5b1a3f9370061d9fb8dcaf65486c83',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldshowimagetaskpixmapviewbydefaultkey',['shouldShowImageTaskPixmapViewByDefaultKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a12eea5adfafcd4142dd065078ece8543',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldshowimagetaskscripteditorbydefaultkey',['shouldShowImageTaskScriptEditorByDefaultKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a0123f4b92086310440e446518f86a741',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldshowimagetaskvectorviewbydefaultkey',['shouldShowImageTaskVectorViewByDefaultKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a2de1a2a978e04ea5b48d8235af1e8442',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldshowlaunchconsolebydefaultkey',['shouldShowLaunchConsoleByDefaultKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a25b352db04c979218743d52142644276',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldshowwelcomescreenonlaunchkey',['shouldShowWelcomeScreenOnLaunchKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a2a6aaf301b886dbff623d3adb3c17dd7',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shouldusecustomimagetaskbackgroundoverridecolorkey',['shouldUseCustomImageTaskBackgroundOverrideColorKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a69dfbe75e5e5ade1c4f744450241b31e',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['shoulduseimagealphareplacementcolorkey',['shouldUseImageAlphaReplacementColorKey',['../classgeometrize_1_1serialization_1_1_global_preferences_data.html#a7fe88147b23c7df409f259c99afdbe62',1,'geometrize::serialization::GlobalPreferencesData']]],
+  ['strings',['strings',['../structgeometrize_1_1serialization_1_1_string_vector_data.html#ad307fe287354ad5311e48735e76ea332',1,'geometrize::serialization::StringVectorData']]]
+];

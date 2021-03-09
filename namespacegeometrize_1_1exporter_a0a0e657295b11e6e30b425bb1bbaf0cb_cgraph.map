@@ -1,0 +1,4 @@
+<map id="geometrize::exporter::exportBitmap" name="geometrize::exporter::exportBitmap">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1image.html#a734fd75fa79fe16ed4e6a83e58d921c1" title="createImage Creates an image from the bitmap data object. Assumes RGBA8888 format. " alt="" coords="197,5,334,46"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1exporter.html#a6a508b358e88c41f55cf8ae8075d3f6d" title="exportImage Exports the image data to an image format that Qt supports (depending on the file extensi..." alt="" coords="195,70,336,111"/>
+</map>

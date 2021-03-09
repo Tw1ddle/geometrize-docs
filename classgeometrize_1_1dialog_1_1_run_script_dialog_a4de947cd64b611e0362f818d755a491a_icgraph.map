@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::RunScriptDialog::getScriptFilepath" name="geometrize::dialog::RunScriptDialog::getScriptFilepath">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1common_1_1ui.html#ace0ccb65dcd4a7590454fad6cc359b20" title="geometrize::common\l::ui::openGetScriptDialog" alt="" coords="240,13,408,54"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_run_script_dialog.html#a16a04f352c3d916840435057abe3ea77" title="geometrize::dialog\l::RunScriptDialog::on\l_buttonBox_accepted" alt="" coords="250,77,398,133"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_launch_window.html#a4680a5f3d860663aebdeb7fee4bd2273" title="geometrize::dialog\l::LaunchWindow::on_runScript\lButton_clicked" alt="" coords="456,5,656,61"/>
+</map>

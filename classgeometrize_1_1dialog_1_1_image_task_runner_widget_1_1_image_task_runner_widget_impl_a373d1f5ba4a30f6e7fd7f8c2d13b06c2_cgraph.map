@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::setCandidateShapesPerStep" name="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::setCandidateShapesPerStep">
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task.html#a7732b8ba0a44b16296000eee7add86f8" title="getPreferences Gets a reference to the current preferences of this task. " alt="" coords="256,5,448,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#a457aaddc7cd9324e39d0ea3da8035b13" title="geometrize::preferences\l::ImageTaskPreferences\l::setCandidateShapeCount" alt="" coords="263,69,441,125"/>
+</map>

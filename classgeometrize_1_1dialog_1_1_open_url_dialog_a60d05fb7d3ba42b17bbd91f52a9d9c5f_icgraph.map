@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::OpenUrlDialog::getUrl" name="geometrize::dialog::OpenUrlDialog::getUrl">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1common_1_1ui.html#a50a44b5382b212510154c658f1227905" title="geometrize::common\l::ui::openGetUrlDialog" alt="" coords="214,11,365,53"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_launch_window.html#a6cd7cc7f2c2e47589ec13805a81339fe" title="geometrize::dialog\l::LaunchWindow::on_openLink\lButton_clicked" alt="" coords="413,4,613,60"/>
+</map>

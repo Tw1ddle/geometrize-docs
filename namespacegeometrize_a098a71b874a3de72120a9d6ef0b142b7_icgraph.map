@@ -1,0 +1,6 @@
+<map id="geometrize::getFlagIconForLocaleCode" name="geometrize::getFlagIconForLocaleCode">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_language_select_list_1_1_language_select_list_impl.html#adb3975326368420edf6768a623e2a489" title="geometrize::dialog\l::LanguageSelectList\l::LanguageSelectListImpl\l::addItemAtIndex" alt="" coords="245,5,414,75"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_language_select_widget_1_1_language_select_widget_impl.html#a0acd3c547f74e3f3ba16cb222d084d74" title="geometrize::dialog\l::LanguageSelectWidget\l::LanguageSelectWidgetImpl\l::populateUi" alt="" coords="235,99,424,170"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_language_select_list_1_1_language_select_list_impl.html#affbdfba393e4b8e7a5b7a9103d18527c" title="geometrize::dialog\l::LanguageSelectList\l::LanguageSelectListImpl\l::setupLanguageSelect" alt="" coords="482,5,651,75"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_language_select_widget_1_1_language_select_widget_impl.html#ad974c440b87a6fbe18e00040af39e18b" title="geometrize::dialog\l::LanguageSelectWidget\l::LanguageSelectWidgetImpl\l::onLanguageChange" alt="" coords="472,99,661,170"/>
+</map>

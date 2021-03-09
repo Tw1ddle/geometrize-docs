@@ -1,0 +1,4 @@
+<map id="geometrize::RecentItems::clear" name="geometrize::RecentItems::clear">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_launch_window.html#ae191794b904babea63ae0f0bfcd71fd3" title="geometrize::dialog\l::LaunchWindow::on_actionClear\l_Recents_triggered" alt="" coords="225,5,439,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a1466108c176d12d5cf8e1755cd0981e4" title="geometrize::dialog\l::RecentTasksList::RecentTasks\lListImpl::clearItemDataAndMenu" alt="" coords="225,85,439,141"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="geometrize::script::runScript" name="geometrize::script::runScript">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_launch_window.html#a63fd3d09301570659d30fcbe1703854b" title="geometrize::dialog\l::LaunchWindow::dropEvent" alt="" coords="197,5,384,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_launch_window.html#a4680a5f3d860663aebdeb7fee4bd2273" title="geometrize::dialog\l::LaunchWindow::on_runScript\lButton_clicked" alt="" coords="191,69,391,125"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_run_script_dialog.html#a16a04f352c3d916840435057abe3ea77" title="geometrize::dialog\l::RunScriptDialog::on\l_buttonBox_accepted" alt="" coords="217,149,365,205"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#ae8048316bcfda782f4223f41246cac1c" title="geometrize::dialog\l::TaskQueueWindow::TaskQueue\lWindowImpl::addItem" alt="" coords="181,229,400,285"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script.html#a28d8ceeb1aeff22ec45f8b5ae304145b" title="runScript Evaluates the provided script code, creating a fresh engine to evaluate the script..." alt="" coords="227,309,354,350"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1util.html#a0608d8a50b414644dbb1571ec8c8addc" title="geometrize::util::openTemplate" alt="" coords="190,375,391,401"/>
+<area shape="rect" id="node10" href="$namespacegeometrize_1_1test.html#a99a6250dd3f1b31d805c01adf8dfcc8b" title="runSelfTests Runs the scripts in the given directory, one by one. " alt="" coords="208,426,373,467"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1dialog_1_1_template_button_1_1_template_button_impl.html#abfd04b680d6132a3bd2b9a0668530773" title="geometrize::dialog\l::TemplateButton::Template\lButtonImpl::openTemplate" alt="" coords="448,360,632,416"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1dialog_1_1_template_button_1_1_template_button_impl.html#aae258f25d32799352a146b3e76a752ae" title="geometrize::dialog\l::TemplateButton::Template\lButtonImpl::showContextMenu" alt="" coords="680,360,883,416"/>
+</map>

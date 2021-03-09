@@ -1,0 +1,6 @@
+<map id="geometrize::task::ImageTask::getCurrent" name="geometrize::task::ImageTask::getCurrent">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a87e617c164a73ff1300e36088af09e39" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::saveSVG" alt="" coords="246,5,445,75"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a382e94e755189bc7ca935fa212000314" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::saveRasterizedSVG" alt="" coords="246,99,445,170"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a850d3ba3ac74061f3fd47028d4e8e5c5" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::saveRasterizedSVGs" alt="" coords="246,194,445,265"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a81941b7713e3fd87e0fd7788f1cac463" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::saveGIF" alt="" coords="246,289,445,359"/>
+</map>

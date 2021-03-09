@@ -1,0 +1,12 @@
+<map id="geometrize::strings::Strings::getApplicationName" name="geometrize::strings::Strings::getApplicationName">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_about_dialog.html#a5a0dbebf5d9de8b3f94e49a64a76d814" title="geometrize::dialog\l::AboutDialog::populateUi" alt="" coords="273,70,444,111"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a93127e3b891daf0b117ed5a029323390" title="geometrize::dialog\l::ImageTaskWindow::ImageTask\lWindowImpl::populateUi" alt="" coords="251,135,466,191"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#af5428f88bdbb69c39eda785b12e22999" title="geometrize::dialog\l::LaunchWindow::LaunchWindow\lImpl::populateUi" alt="" coords="251,215,467,271"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1dialog_1_1_welcome_window.html#a7ff0ebb14e8234c32199ee7c01bc33e1" title="geometrize::dialog\l::WelcomeWindow::populateUi" alt="" coords="257,294,460,335"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_about_dialog.html#acd266b3c90db6c5e5d3db7f6f2c20c18" title="geometrize::dialog\l::AboutDialog::AboutDialog" alt="" coords="546,5,726,46"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_about_dialog.html#a30ea6af7581721f83637a02278dbcee2" title="geometrize::dialog\l::AboutDialog::changeEvent" alt="" coords="543,70,729,111"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a5d501f47ba2d0c779fcd5ac1a87df77c" title="geometrize::dialog\l::ImageTaskWindow::ImageTask\lWindowImpl::ImageTaskWindowImpl" alt="" coords="517,135,755,191"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#ac7710e75a57e9fde1c78d856482b9d8e" title="geometrize::dialog\l::LaunchWindow::LaunchWindow\lImpl::LaunchWindowImpl" alt="" coords="528,215,744,271"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1dialog_1_1_welcome_window.html#a4782678e037e1180f8d73e2112f4fc0f" title="geometrize::dialog\l::WelcomeWindow::WelcomeWindow" alt="" coords="515,294,757,335"/>
+<area shape="rect" id="node11" href="$classgeometrize_1_1dialog_1_1_welcome_window.html#ab95cb3003cc39e3d452c391b0cb2dd63" title="geometrize::dialog\l::WelcomeWindow::changeEvent" alt="" coords="528,359,744,401"/>
+</map>

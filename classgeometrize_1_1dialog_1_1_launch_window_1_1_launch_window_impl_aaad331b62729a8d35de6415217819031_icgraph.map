@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl::getTopLevelLaunchWindows" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl::getTopLevelLaunchWindows">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_launch_window.html#acd8ff06520f0988d1ea088a643f28c5b" title="getTopLevelLaunchWindows Gets all of the existing top level launch windows. " alt="" coords="278,31,477,87"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1common_1_1ui.html#a0560a0e77e9a9266a183eb02215c2ad1" title="geometrize::common\l::ui::isLaunchWindowOpen" alt="" coords="541,5,720,46"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1common_1_1ui.html#a9c588985e100d792b0487e771f23e752" title="geometrize::common\l::ui::bringLaunchWindowToFront" alt="" coords="525,70,736,111"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a5689a5e8ace216e0bd824bd3dc00215d" title="geometrize::dialog\l::ImageTaskWindow::ImageTask\lWindowImpl::revealLaunchWindow" alt="" coords="784,31,1011,87"/>
+</map>

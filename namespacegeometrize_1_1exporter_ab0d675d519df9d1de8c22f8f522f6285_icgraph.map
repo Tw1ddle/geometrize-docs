@@ -1,0 +1,8 @@
+<map id="geometrize::exporter::renderSvgShapeDataToImage" name="geometrize::exporter::renderSvgShapeDataToImage">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#a0a7580974d660e3db3f62cb34a6e8b4f" title="exportRasterizedSvg Exports the shape data as an image by rasterizing an SVG rendered from the shape ..." alt="" coords="259,99,411,141"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a382e94e755189bc7ca935fa212000314" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::saveRasterizedSVG" alt="" coords="459,5,658,75"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1exporter.html#a15adc0c3cede9d9470c80c744ec861dc" title="exportRasterizedSvgs Exports the shape data to images by rasterizing SVGs rendered from the shape dat..." alt="" coords="479,99,638,141"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script_1_1bindings.html#a05e9be1b7644325fb0b5a23e96c4da22" title="createImageExportBindings Creates the Chaiscript to C++ bindings for saving images. " alt="" coords="461,165,657,221"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a850d3ba3ac74061f3fd47028d4e8e5c5" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::saveRasterizedSVGs" alt="" coords="707,82,906,153"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window. " alt="" coords="721,177,892,218"/>
+</map>

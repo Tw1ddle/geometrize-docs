@@ -1,0 +1,4 @@
+<map id="geometrize::task::ImageTask::signal_modelDidStep" name="geometrize::task::ImageTask::signal_modelDidStep">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#afaf2ce42e247c7cb9652c940fff48308" title="geometrize::dialog\l::LaunchWindow::LaunchWindow\lImpl::setupLogo" alt="" coords="245,5,461,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#aef254396df42404c2f1dcba31bb619e3" title="geometrize::task::ImageTask\l::ImageTaskImpl::modelDidStep" alt="" coords="248,85,459,126"/>
+</map>

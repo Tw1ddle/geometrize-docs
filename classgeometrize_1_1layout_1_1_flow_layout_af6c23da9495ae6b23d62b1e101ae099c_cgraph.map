@@ -1,0 +1,6 @@
+<map id="geometrize::layout::FlowLayout::setGeometry" name="geometrize::layout::FlowLayout::setGeometry">
+<area shape="rect" id="node2" href="$classgeometrize_1_1layout_1_1_flow_layout.html#af15456b471cb913f20d95e063a0ab824" title="geometrize::layout\l::FlowLayout::doLayout" alt="" coords="235,38,394,79"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1layout_1_1_flow_layout.html#a840d457d5187953dea12dd18c7d0eaa0" title="geometrize::layout\l::FlowLayout::horizontalSpacing" alt="" coords="443,5,651,46"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1layout_1_1_flow_layout.html#acdda9f4dd7fb6517352ace16c9e7f27f" title="geometrize::layout\l::FlowLayout::verticalSpacing" alt="" coords="449,70,644,111"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1layout_1_1_flow_layout.html#a2adf235977f1c3f4f287b554be91eb4f" title="geometrize::layout\l::FlowLayout::smartSpacing" alt="" coords="699,38,885,79"/>
+</map>

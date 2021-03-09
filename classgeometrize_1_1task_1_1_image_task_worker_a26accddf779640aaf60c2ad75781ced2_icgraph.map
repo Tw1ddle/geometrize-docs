@@ -1,0 +1,5 @@
+<map id="geometrize::task::ImageTaskWorker::getTarget" name="geometrize::task::ImageTaskWorker::getTarget">
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a8da0c9d9f1e66bb4d0986555ce61591b" title="geometrize::task::ImageTask\l::ImageTaskImpl::getTarget" alt="" coords="263,5,455,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#aee77ca67444340e4db4bced4ff1a5f7d" title="geometrize::task::ImageTask\l::ImageTaskImpl::stepModel" alt="" coords="263,70,455,111"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a0c009017fe4e4f6c241450fd99a829d3" title="geometrize::task::ImageTask\l::ImageTaskImpl::drawBackground\lRectangle" alt="" coords="246,135,471,191"/>
+</map>

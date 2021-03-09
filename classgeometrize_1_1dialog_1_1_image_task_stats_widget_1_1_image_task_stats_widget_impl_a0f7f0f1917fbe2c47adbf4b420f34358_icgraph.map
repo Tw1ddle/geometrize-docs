@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::ImageTaskStatsWidget::ImageTaskStatsWidgetImpl::setCurrentStatusText" name="geometrize::dialog::ImageTaskStatsWidget::ImageTaskStatsWidgetImpl::setCurrentStatusText">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_stats_widget_1_1_image_task_stats_widget_impl.html#a7cbd1136fc414b3d6c5ba4dba0df2a34" title="geometrize::dialog\l::ImageTaskStatsWidget\l::ImageTaskStatsWidgetImpl\l::setCurrentStatus" alt="" coords="245,5,437,75"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_image_task_stats_widget_1_1_image_task_stats_widget_impl.html#ac9970eaee75366a654f1cdc6a19d9cd3" title="geometrize::dialog\l::ImageTaskStatsWidget\l::ImageTaskStatsWidgetImpl\l::populateUi" alt="" coords="245,99,437,170"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_image_task_stats_widget_1_1_image_task_stats_widget_impl.html#a10819e32c68d70c885b1452647209c5e" title="geometrize::dialog\l::ImageTaskStatsWidget\l::ImageTaskStatsWidgetImpl\l::onLanguageChange" alt="" coords="485,99,677,170"/>
+</map>

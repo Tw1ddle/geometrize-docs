@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::RecentTasksList::RecentTasksListImpl" name="geometrize::dialog::RecentTasksList::RecentTasksListImpl">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list.html" title="The RecentTasksList class models the UI for a list of recently opened tasks. " alt="" coords="5,83,133,125"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_recent_items.html" title="The RecentItems class encapsulates a list of items that were recently interacted with. The class keeps a record of these items stored in preferences. Useful for keeping track of recently opened files. " alt="" coords="158,91,327,117"/>
+</map>

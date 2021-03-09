@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl::saveGlobalSettingsTemplate" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl::saveGlobalSettingsTemplate">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1common_1_1ui.html#aa5132475f549517fb5a3cc5b09e9a8e6" title="geometrize::common\l::ui::openSaveGlobalSettings\lDialog" alt="" coords="278,5,469,61"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="292,85,455,126"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#aa6b8acadb1db789581c5e4a9f0aeb955" title="save Saves the global preferences to a file. " alt="" coords="287,150,460,191"/>
+</map>

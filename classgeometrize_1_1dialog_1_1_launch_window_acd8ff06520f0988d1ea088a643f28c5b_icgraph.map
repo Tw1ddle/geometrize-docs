@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::LaunchWindow::getTopLevelLaunchWindows" name="geometrize::dialog::LaunchWindow::getTopLevelLaunchWindows">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1common_1_1ui.html#a0560a0e77e9a9266a183eb02215c2ad1" title="geometrize::common\l::ui::isLaunchWindowOpen" alt="" coords="269,5,448,46"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1common_1_1ui.html#a9c588985e100d792b0487e771f23e752" title="geometrize::common\l::ui::bringLaunchWindowToFront" alt="" coords="253,70,464,111"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a5689a5e8ace216e0bd824bd3dc00215d" title="geometrize::dialog\l::ImageTaskWindow::ImageTask\lWindowImpl::revealLaunchWindow" alt="" coords="512,31,739,87"/>
+</map>

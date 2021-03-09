@@ -1,0 +1,4 @@
+<map id="geometrize::scene::ImageTaskPixmapGraphicsItem::signal_onKeyReleaseEvent" name="geometrize::scene::ImageTaskPixmapGraphicsItem::signal_onKeyReleaseEvent">
+<area shape="rect" id="node2" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_graphics_item.html#a7e91fc40728cd964bbc649820c1a78f6" title="geometrize::scene::\lImageTaskPixmapGraphicsItem\l::keyReleaseEvent" alt="" coords="265,5,474,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1scene_1_1_image_task_scene_manager_1_1_image_task_scene_manager_impl.html#ad37b9c2e2e23cecd9486e109a5630329" title="geometrize::scene::\lImageTaskSceneManager\l::ImageTaskSceneManagerImpl\l::connectTargetItemSignals" alt="" coords="266,86,473,157"/>
+</map>

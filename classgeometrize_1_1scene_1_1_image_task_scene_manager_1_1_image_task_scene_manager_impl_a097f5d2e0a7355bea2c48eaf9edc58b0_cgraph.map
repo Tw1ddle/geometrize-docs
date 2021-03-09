@@ -1,0 +1,4 @@
+<map id="geometrize::scene::ImageTaskSceneManager::ImageTaskSceneManagerImpl::updateScenes" name="geometrize::scene::ImageTaskSceneManager::ImageTaskSceneManagerImpl::updateScenes">
+<area shape="rect" id="node2" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_scene.html#ae961d6c9996db30ffb6359744097a41b" title="setWorkingPixmap Sets the pixmap that provides the current/working image visualization. " alt="" coords="288,5,456,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1scene_1_1_image_task_svg_scene.html#a0ab4eded975bdb59fa46bdb4dcd6ffcd" title="addShapes Updates the SVG data based on the given shapes. " alt="" coords="262,85,482,126"/>
+</map>

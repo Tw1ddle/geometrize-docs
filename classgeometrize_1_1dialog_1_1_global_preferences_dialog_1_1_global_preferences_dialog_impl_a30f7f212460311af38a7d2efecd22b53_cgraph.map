@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::setAutoLoadImageTaskSettings" name="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::setAutoLoadImageTaskSettings">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#af3a932050401bc18de5d9863a8fa697d" title="geometrize::dialog\l::GlobalPreferencesDialog\l::GlobalPreferencesDialogImpl\l::getPrefs" alt="" coords="271,5,470,75"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a6cd9a19d8f31b7ef59f9a38f9cea4014" title="setShouldAutoLoadImageTaskSettings Sets the preference for whether to automatically load any previous..." alt="" coords="269,100,472,156"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="520,19,683,61"/>
+</map>

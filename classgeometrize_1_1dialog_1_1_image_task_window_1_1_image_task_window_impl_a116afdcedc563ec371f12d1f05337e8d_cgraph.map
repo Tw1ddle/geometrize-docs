@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::ImageTaskWindow::ImageTaskWindowImpl::loadSettingsTemplate" name="geometrize::dialog::ImageTaskWindow::ImageTaskWindowImpl::loadSettingsTemplate">
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task.html#a7732b8ba0a44b16296000eee7add86f8" title="getPreferences Gets a reference to the current preferences of this task. " alt="" coords="285,5,477,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#a123e91dbf1631f9df92104098b58819b" title="load Loads the image task preferences from a file. " alt="" coords="283,70,480,111"/>
+</map>

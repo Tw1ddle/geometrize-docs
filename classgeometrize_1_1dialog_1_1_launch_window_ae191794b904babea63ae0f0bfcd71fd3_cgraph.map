@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::LaunchWindow::on_actionClear_Recents_triggered" name="geometrize::dialog::LaunchWindow::on_actionClear_Recents_triggered">
+<area shape="rect" id="node2" href="$namespacegeometrize.html#af51abd38b57d1666feaadb228ee6cb01" title="getRecentItems Gets a reference to the recent files list. " alt="" coords="269,5,456,32"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_recent_items.html#ac1f6f944c80fd5bae9bc61bb9a0593e8" title="clear Removes all items from the recent items. " alt="" coords="278,57,447,98"/>
+</map>

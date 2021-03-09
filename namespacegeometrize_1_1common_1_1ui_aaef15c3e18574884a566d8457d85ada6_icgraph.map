@@ -1,0 +1,4 @@
+<map id="geometrize::common::ui::openLaunchWindow" name="geometrize::common::ui::openLaunchWindow">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a5689a5e8ace216e0bd824bd3dc00215d" title="geometrize::dialog\l::ImageTaskWindow::ImageTask\lWindowImpl::revealLaunchWindow" alt="" coords="219,5,445,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_welcome_window.html#aa5579c04aa1c3f20bdbfe49679de6465" title="geometrize::dialog\l::WelcomeWindow::closeEvent" alt="" coords="229,85,435,126"/>
+</map>

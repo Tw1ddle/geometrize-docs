@@ -1,0 +1,5 @@
+<map id="geometrize::util::clamp" name="geometrize::util::clamp">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_geometrize_splash_screen.html#a1961746b1773fdb630210396440e6a2e" title="geometrize::dialog\l::GeometrizeSplashScreen\l::setProgress" alt="" coords="208,4,387,60"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_geometrize_splash_screen.html#a4cca600da4cd1801fbee78698575cc59" title="geometrize::dialog\l::GeometrizeSplashScreen\l::setState" alt="" coords="435,4,613,60"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_app_splash_screen_1_1_app_splash_screen_impl.html#a75e859ecb00d05866caf45d3e7376d13" title="geometrize::dialog\l::AppSplashScreen::AppSplash\lScreenImpl::setState" alt="" coords="661,4,867,60"/>
+</map>

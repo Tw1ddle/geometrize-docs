@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl::loadGlobalSettingsTemplate" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl::loadGlobalSettingsTemplate">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1common_1_1ui.html#acd75dafd4bc27a111d478e15216f3c3f" title="geometrize::common\l::ui::openLoadGlobalSettings\lDialog" alt="" coords="272,5,461,61"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="285,85,448,126"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#acebad527dc5ac0b7dabc3fead109a6e0" title="load Loads the global preferences from a file. " alt="" coords="282,150,451,191"/>
+</map>

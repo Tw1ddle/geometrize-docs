@@ -1,0 +1,8 @@
+<map id="geometrize::task::ImageTaskWorker::signal_willStep" name="geometrize::task::ImageTaskWorker::signal_willStep">
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a055f6b1e35ba17092265bfc1cccc464a" title="geometrize::task::ImageTask\l::ImageTaskImpl::connectSignals" alt="" coords="486,27,703,68"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#aea29c1f360dc4e40a72bb9c60eb5e71e" title="geometrize::task::ImageTask\l::ImageTaskImpl::disconnectAll" alt="" coords="491,92,698,133"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1task_1_1_image_task_worker.html#a0a6d24d8070616b1b4f38b8392188444" title="step Steps the image task worker. Emits the willStep signal when called, and didStep signal on comple..." alt="" coords="245,27,437,68"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1task_1_1_image_task_worker.html#a940b84c9e8de9876c0b82b212ad268e7" title="drawShape Draws a shape with the given color to the image task. Emits the willStep signal when called..." alt="" coords="245,92,437,133"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#ae50200e7e3159d7e740bfb0d5fd3fca1" title="geometrize::task::ImageTask\l::ImageTaskImpl::init" alt="" coords="769,27,961,68"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a8a9f72ce4b412a007aca5e88d52d2086" title="geometrize::task::ImageTask\l::ImageTaskImpl::~ImageTaskImpl" alt="" coords="752,92,979,133"/>
+</map>

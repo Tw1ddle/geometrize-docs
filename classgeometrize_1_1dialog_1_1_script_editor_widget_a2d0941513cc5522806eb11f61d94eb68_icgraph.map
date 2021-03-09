@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::ScriptEditorWidget::onScriptEvaluationSucceeded" name="geometrize::dialog::ScriptEditorWidget::onScriptEvaluationSucceeded">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_scripting_widget_1_1_image_task_scripting_widget_impl.html#ab4be62e7fb6044b0a1fa2b293dc358c9" title="geometrize::dialog\l::ImageTaskScriptingWidget\l::ImageTaskScriptingWidgetImpl\l::evaluateStopConditionScripts" alt="" coords="271,5,483,75"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_image_task_scripting_widget_1_1_image_task_scripting_widget_impl.html#ab9a902d3dace0a2a2ee82e576249226d" title="geometrize::dialog\l::ImageTaskScriptingWidget\l::ImageTaskScriptingWidgetImpl\l::evaluateScriptsWithNoReturnValue" alt="" coords="259,99,495,170"/>
+</map>

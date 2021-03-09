@@ -1,0 +1,5 @@
+<map id="geometrize::script::bindings::createImageTaskWindowBindings" name="geometrize::script::bindings::createImageTaskWindowBindings">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a171b3d1ddb11b8d5cca4d324a81254ca" title="createBatchImageTaskEngine Creates a Chaiscript engine for creating and processing multiple image tas..." alt="" coords="240,11,445,53"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#a311eb90cb10ee554b11d9c271f831be6" title="geometrize::dialog\l::TaskQueueWindow::TaskQueue\lWindowImpl::runScript" alt="" coords="493,4,712,60"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#a666acbe710e7214e77ae9dce7e713909" title="geometrize::dialog\l::TaskQueueWindow::TaskQueue\lWindowImpl::TaskQueueWindowImpl" alt="" coords="761,4,1002,60"/>
+</map>

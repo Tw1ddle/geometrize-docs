@@ -1,0 +1,6 @@
+<map id="geometrize::common::ui::getFirstScreenContainingCursor" name="geometrize::common::ui::getFirstScreenContainingCursor">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1common_1_1ui.html#aaef15c3e18574884a566d8457d85ada6" title="geometrize::common\l::ui::openLaunchWindow" alt="" coords="248,49,413,90"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1common_1_1ui.html#a7420ae07910312091afd22db25c20d5b" title="geometrize::common\l::ui::openWelcomePage" alt="" coords="250,114,411,155"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a5689a5e8ace216e0bd824bd3dc00215d" title="geometrize::dialog\l::ImageTaskWindow::ImageTask\lWindowImpl::revealLaunchWindow" alt="" coords="461,5,688,61"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_welcome_window.html#aa5579c04aa1c3f20bdbfe49679de6465" title="geometrize::dialog\l::WelcomeWindow::closeEvent" alt="" coords="472,85,677,126"/>
+</map>

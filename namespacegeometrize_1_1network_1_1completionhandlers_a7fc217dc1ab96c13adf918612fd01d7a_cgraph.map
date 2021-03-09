@@ -1,0 +1,11 @@
+<map id="geometrize::network::completionhandlers::onWebpageDownloadComplete" name="geometrize::network::completionhandlers::onWebpageDownloadComplete">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1network.html#ae5c656efe1a0769f5b8f80199d90ea5f" title="downloadImage Downloads an image over the network. " alt="" coords="294,70,434,111"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1network_1_1completionhandlers.html#a7ec8003e0f83547839bfb331747d8b01" title="onImageDownloadComplete A callback when an image download completes. " alt="" coords="267,135,461,191"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1task.html#a9c90bb68546db5d28017ad9fc79fc0c3" title="createImageTaskAndWindow Creates an image task, and immediately creates a graphical window for manipu..." alt="" coords="509,142,672,183"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1image.html#acbeb2b0bb2bb36587d78e3e2763f1596" title="imageToBitmapWithDownscaling Creates a bitmap data object from the given image, downscaling in the pr..." alt="" coords="720,77,979,118"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1image.html#a9f6810d4b6c7f4577c78c3e9e21f88a4" title="loadImage Loads an image from the image at the file path. Converts to RGBA8888 format. " alt="" coords="781,142,918,183"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1dialog_1_1_image_task_window.html#a5ee1d6af2acb7f2137201eaed0fb0b82" title="setImageTask Sets the current image task shown by the window. " alt="" coords="733,207,966,249"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="1045,5,1208,46"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a0566a985ff12b98a2ef62652943fafca" title="getImageTaskResizeThreshold Gets the maximum dimensions of an image that can be used in an image task..." alt="" coords="1027,69,1226,125"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1image.html#a34c68ca07c67683a6ce957150a38de29" title="createBitmap Creates a bitmap data object from the given image. " alt="" coords="1058,149,1195,190"/>
+</map>

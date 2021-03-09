@@ -1,0 +1,8 @@
+<map id="geometrize::script::bindings::createImageBindings" name="geometrize::script::bindings::createImageBindings">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1image.html#a9f6810d4b6c7f4577c78c3e9e21f88a4" title="loadImage Loads an image from the image at the file path. Converts to RGBA8888 format. " alt="" coords="322,5,459,46"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1image.html#aa63a5fddc9d54a17ede58ff41eba0a95" title="convertImageToRgba8888 Returns a copy of the image in the RGBA8888 format. " alt="" coords="303,70,478,111"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1image.html#a34c68ca07c67683a6ce957150a38de29" title="createBitmap Creates a bitmap data object from the given image. " alt="" coords="599,126,737,167"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1image.html#acbeb2b0bb2bb36587d78e3e2763f1596" title="imageToBitmapWithDownscaling Creates a bitmap data object from the given image, downscaling in the pr..." alt="" coords="261,190,520,231"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="587,191,749,233"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a0566a985ff12b98a2ef62652943fafca" title="getImageTaskResizeThreshold Gets the maximum dimensions of an image that can be used in an image task..." alt="" coords="569,256,767,312"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometrize::scene::ImageTaskSceneManager::ImageTaskSceneManagerImpl" name="geometrize::scene::ImageTaskSceneManager::ImageTaskSceneManagerImpl">
+<area shape="rect" id="node2" href="$classgeometrize_1_1scene_1_1_image_task_svg_scene.html" title="The ImageTaskSvgScene class models a graphics scene for viewing the shape data of an image task as an..." alt="" coords="383,5,529,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1scene_1_1_image_task_scene.html" title="The ImageTaskScene class models a graphics scene for viewing the results of image tasks..." alt="" coords="179,46,317,87"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_scene.html" title="The ImageTaskPixmapScene class models a graphics scene for viewing the pixmap&#45;based results of image ..." alt="" coords="372,70,540,111"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1scene_1_1_image_task_scene_manager.html" title="The ImageTaskSceneManager manages the scenes representing the graphical state of the shapes It mostly..." alt="" coords="369,135,543,177"/>
+</map>

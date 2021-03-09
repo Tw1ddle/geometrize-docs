@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::AppSplashScreen::AppSplashScreenImpl::setState" name="geometrize::dialog::AppSplashScreen::AppSplashScreenImpl::setState">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_geometrize_splash_screen.html#a4cca600da4cd1801fbee78698575cc59" title="geometrize::dialog\l::GeometrizeSplashScreen\l::setState" alt="" coords="259,45,437,101"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_geometrize_splash_screen.html#a1961746b1773fdb630210396440e6a2e" title="geometrize::dialog\l::GeometrizeSplashScreen\l::setProgress" alt="" coords="485,5,664,61"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_geometrize_splash_screen.html#a8a2d7108d8a2c9b3526887962306ad8b" title="geometrize::dialog\l::GeometrizeSplashScreen\l::processEvents" alt="" coords="485,85,664,141"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#a204fa7a5852867b508fd7ec01d4d3094" title="clamp Clamps a value within a range. " alt="" coords="712,20,867,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometrize::exporter::exportGIF" name="geometrize::exporter::exportGIF">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a81941b7713e3fd87e0fd7788f1cac463" title="geometrize::dialog\l::ImageTaskExportWidget\l::ImageTaskExportWidgetImpl\l::saveGIF" alt="" coords="195,5,394,75"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1script_1_1bindings.html#afaeb8d297a158108cef79a839f512b23" title="geometrize::script\l::bindings::exportGIF" alt="" coords="223,99,367,141"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script_1_1bindings.html#ac2b1badcd5dd91f259a59574530d147b" title="createGifExportBindings Creates the ChaiScript to C++ bindings for saving animated GIFs..." alt="" coords="443,92,621,148"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window. " alt="" coords="669,99,840,141"/>
+</map>

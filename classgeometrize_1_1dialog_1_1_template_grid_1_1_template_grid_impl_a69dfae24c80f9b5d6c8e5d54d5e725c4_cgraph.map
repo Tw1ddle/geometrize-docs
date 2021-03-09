@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::TemplateGrid::TemplateGridImpl::loadTemplates" name="geometrize::dialog::TemplateGrid::TemplateGridImpl::loadTemplates">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1searchpaths.html#aaf03fbf6b9113f56d4463ca5a85ee32a" title="getTemplateSearchpaths Gets the directory paths that the program will search for project file templat..." alt="" coords="270,5,447,46"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#adb8da02bebd5952ade036b0a4256ee13" title="getSubdirectoriesForDirectory Gets the absolute paths for direct subdirectories of the given director..." alt="" coords="249,70,469,111"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_template_grid_1_1_template_grid_impl.html#aa5adea62f776c12bd654fb8799d1da9f" title="geometrize::dialog\l::TemplateGrid::TemplateGrid\lImpl::addTemplateItem" alt="" coords="261,135,456,191"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="geometrize::script::bindings::createImageTaskBindings" name="geometrize::script::bindings::createImageTaskBindings">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window. " alt="" coords="257,5,428,46"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1script.html#a171b3d1ddb11b8d5cca4d324a81254ca" title="createBatchImageTaskEngine Creates a Chaiscript engine for creating and processing multiple image tas..." alt="" coords="240,70,445,111"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script.html#aefd5a4a0ceab73c664e53cc4bd28513b" title="createFunctionalTestRunnerEngine Creates a Chaiscript engine object for running functional tests..." alt="" coords="245,135,440,191"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#a311eb90cb10ee554b11d9c271f831be6" title="geometrize::dialog\l::TaskQueueWindow::TaskQueue\lWindowImpl::runScript" alt="" coords="493,63,712,119"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#a666acbe710e7214e77ae9dce7e713909" title="geometrize::dialog\l::TaskQueueWindow::TaskQueue\lWindowImpl::TaskQueueWindowImpl" alt="" coords="761,63,1002,119"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1test.html#a99a6250dd3f1b31d805c01adf8dfcc8b" title="runSelfTests Runs the scripts in the given directory, one by one. " alt="" coords="520,142,685,183"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="geometrize::preferences::GlobalPreferences::save" name="geometrize::preferences::GlobalPreferences::save">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#a829b710aba45c1dc5b5b754001759e71" title="geometrize::dialog\l::GlobalPreferencesDialog\l::GlobalPreferencesDialogImpl\l::~GlobalPreferencesDialogImpl" alt="" coords="235,5,442,75"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#a8b8eba902614ba8ca0730bc323a928e1" title="geometrize::dialog\l::LaunchWindow::LaunchWindow\lImpl::saveGlobalSettingsTemplate" alt="" coords="227,100,450,156"/>
+</map>

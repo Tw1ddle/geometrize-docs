@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::syncUserInterface" name="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::syncUserInterface">
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task.html#a7732b8ba0a44b16296000eee7add86f8" title="getPreferences Gets a reference to the current preferences of this task. " alt="" coords="256,5,448,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#aacaa249e3fd51085d7b1492519a08404" title="getImageRunnerOptions Gets a copy of the image runner options. " alt="" coords="267,69,437,125"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="271,149,433,190"/>
+</map>

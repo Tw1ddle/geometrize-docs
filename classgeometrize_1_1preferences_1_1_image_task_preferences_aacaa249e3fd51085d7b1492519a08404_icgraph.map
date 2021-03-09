@@ -1,0 +1,4 @@
+<map id="geometrize::preferences::ImageTaskPreferences::getImageRunnerOptions" name="geometrize::preferences::ImageTaskPreferences::getImageRunnerOptions">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#af74e830c5713f9ac97c8a9e8e301279b" title="geometrize::dialog\l::ImageTaskRunnerWidget\l::ImageTaskRunnerWidgetImpl\l::syncUserInterface" alt="" coords="224,5,427,75"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#aee77ca67444340e4db4bced4ff1a5f7d" title="geometrize::task::ImageTask\l::ImageTaskImpl::stepModel" alt="" coords="229,99,421,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="geometrize::RecentItems::signal_cleared" name="geometrize::RecentItems::signal_cleared">
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a6a68d595906ba2d2c5fceb6d41f3f5f1" title="geometrize::dialog\l::RecentTasksList::RecentTasks\lListImpl::setupConnections" alt="" coords="225,9,439,65"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_recent_items.html#ac1f6f944c80fd5bae9bc61bb9a0593e8" title="clear Removes all items from the recent items. " alt="" coords="247,93,417,134"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a85e15d2f1ec13b35036637a4f779090f" title="geometrize::dialog\l::RecentTasksList::RecentTasks\lListImpl::setRecentItems" alt="" coords="489,5,703,61"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_launch_window.html#ae191794b904babea63ae0f0bfcd71fd3" title="geometrize::dialog\l::LaunchWindow::on_actionClear\l_Recents_triggered" alt="" coords="489,85,703,141"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a1466108c176d12d5cf8e1755cd0981e4" title="geometrize::dialog\l::RecentTasksList::RecentTasks\lListImpl::clearItemDataAndMenu" alt="" coords="489,165,703,221"/>
+</map>

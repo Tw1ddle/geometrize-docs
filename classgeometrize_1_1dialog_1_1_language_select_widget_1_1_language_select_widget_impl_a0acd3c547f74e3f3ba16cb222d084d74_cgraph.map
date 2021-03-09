@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::LanguageSelectWidget::LanguageSelectWidgetImpl::populateUi" name="geometrize::dialog::LanguageSelectWidget::LanguageSelectWidgetImpl::populateUi">
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="280,5,443,46"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a57b196d79c0f0f5dd58e2a30aec12b6b" title="getLocaleName Gets the locale name in the format &quot;language[_script][_country]&quot;. language is a lowerca..." alt="" coords="243,70,479,111"/>
+<area shape="rect" id="node4" href="$namespacegeometrize.html#a098a71b874a3de72120a9d6ef0b142b7" title="getFlagIconForLocaleCode Gets a representative national flag for the given locale code..." alt="" coords="271,135,452,177"/>
+</map>
