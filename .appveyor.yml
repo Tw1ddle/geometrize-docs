@@ -1,0 +1,74 @@
+branches:
+  only:
+    - master
+
+image:
+  - Ubuntu2004
+  
+environment:
+  GITHUB_API_KEY:
+    secure: w1zaTUARBAuhkAKUke5sBvSkVtlDGL8YfQxROzv5oGIynVJImn+KWGFVDxyjQore
+
+install:
+  - cd $APPVEYOR_BUILD_FOLDER
+  
+  # Configure CI bot git email/username
+  - git config --global user.name "AppVeyor CI Bot"
+  - git config --global user.email "appveyor@appveyor.org"
+  
+  # Get the project submodule
+  - git submodule update --init --recursive
+  - git submodule update --remote --merge
+
+  # Push the latest versions of the submodules to the repository
+  - |
+    if [[ `git status --porcelain` ]]; then
+      git checkout master
+      git add geometrize
+      git commit --message "Build bot updating submodule"
+      git remote rm origin
+      git remote add origin https://${GITHUB_API_KEY}@github.com/Tw1ddle/geometrize-docs.git > /dev/null 2>&1
+      git push origin master
+    fi
+
+# Build the documentation
+build_script:
+  - cd $APPVEYOR_BUILD_FOLDER
+  
+  - pushd doxygen
+  - doxygen doxygen_config
+  - popd
+
+# Deploy the documentation to the GitHub pages branch
+deploy_script:
+  # Important: this goes one level above the original build folder to avoid accidentally trashing the master branch
+  # Then clones the gh-pages repo, resets the history, copies the newly-generated docs and pushes back to gh-pages
+  
+  - cd $APPVEYOR_BUILD_FOLDER
+  - cd ..
+  
+  - mkdir gh-pages
+
+  # Get the gh-pages branch as a separate repo
+  - git clone -b gh-pages "https://${GITHUB_API_KEY}@github.com/Tw1ddle/geometrize-docs.git" gh-pages
+  
+  - pushd gh-pages
+  
+  # Reset the gh-pages branch to nothing, discarding history and all
+  - treeHash=$(git hash-object -t tree /dev/null)
+  - firstCommitHash=$(git commit-tree -m "Empty commit" "$treeHash")
+  - git reset --hard "$firstCommitHash"
+  
+  # Move the newly-generated docs to the gh-pages folder
+  - cd $APPVEYOR_BUILD_FOLDER/docs
+  - (shopt -s dotglob && mv * ../../gh-pages)
+  - cd ../../gh-pages
+
+  # Specify the domain the docs will be hosted on
+  - touch CNAME
+  - echo "appdocs.geometrize.co.uk" > CNAME
+
+  # Note that when there is nothing to commit, git commit exits with 1 (but that should never happen here)
+  - git add -A
+  - git commit -m "Build bot updating documentation"
+  - git push -f origin gh-pages
