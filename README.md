@@ -1,7 +1,7 @@
 [![Geometrize Logo](https://github.com/Tw1ddle/geometrize-docs/blob/master/screenshots/logo.png?raw=true "Geometrize logo")](http://www.geometrize.co.uk/)
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Tw1ddle/geometrize-docs/blob/master/LICENSE)
-[![Travis Documentation Build Status](https://img.shields.io/travis/Tw1ddle/geometrize-docs.svg?style=flat-square)](https://travis-ci.org/Tw1ddle/geometrize-docs)
+[![Geometrize Documentation Build Status](https://ci.appveyor.com/api/projects/status/github/Tw1ddle/geometrize-docs)](https://ci.appveyor.com/project/Tw1ddle/geometrize-docs)
 
 Documentation for [Geometrize](http://www.geometrize.co.uk/), the app for geometrizing images into geometric primitives. Read the latest documentation [here](http://appdocs.geometrize.co.uk).
 
