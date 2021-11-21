@@ -1,1 +1,1 @@
-Documentation for [Geometrize](http://www.geometrize.co.uk/), the app for geometrizing images into geometric primitives.
+Documentation for [Geometrize](https://www.geometrize.co.uk/), the app for geometrizing images into geometric primitives.
