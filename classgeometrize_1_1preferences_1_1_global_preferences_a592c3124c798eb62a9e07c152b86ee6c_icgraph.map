@@ -1,0 +1,5 @@
+<map id="geometrize::preferences::GlobalPreferences::getLocaleName" name="geometrize::preferences::GlobalPreferences::getLocaleName">
+<area shape="rect" id="node1" title="getLocaleName Gets the locale name in the format &quot;language[_script][_country]&quot;. language is a lowerca..." alt="" coords="517,20,776,61"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_language_select_widget_1_1_language_select_widget_impl.html#a0acd3c547f74e3f3ba16cb222d084d74" title=" " alt="" coords="261,5,469,76"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_language_select_widget_1_1_language_select_widget_impl.html#ad974c440b87a6fbe18e00040af39e18b" title=" " alt="" coords="5,5,213,76"/>
+</map>

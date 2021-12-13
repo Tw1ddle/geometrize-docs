@@ -1,0 +1,4 @@
+<map id="geometrize::task::ImageTask::ImageTaskImpl::isStepping" name="geometrize::task::ImageTask::ImageTaskImpl::isStepping">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task_worker.html#a2b7280002d40e615c42eb1719907c657" title="isStepping Returns true if the internal model is currently stepping." alt="" coords="264,5,475,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::ImageTaskWindow" name="geometrize::dialog::ImageTaskWindow">
+<area shape="rect" id="node1" title="The ImageTaskWindow class encapsulates the UI for manipiulating, running and viewing an image task th..." alt="" coords="65,95,217,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,121,39"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1script_1_1_command_handler.html" title="The CommandHandler class provides an interface that all objects that can handle/process script comman..." alt="" coords="145,5,293,47"/>
+</map>

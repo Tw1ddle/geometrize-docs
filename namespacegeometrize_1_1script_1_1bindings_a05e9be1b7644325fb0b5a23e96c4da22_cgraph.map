@@ -1,0 +1,8 @@
+<map id="geometrize::script::bindings::createImageExportBindings" name="geometrize::script::bindings::createImageExportBindings">
+<area shape="rect" id="node1" title="createImageExportBindings Creates the Chaiscript to C++ bindings for saving images." alt="" coords="5,63,223,119"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#a0a0e657295b11e6e30b425bb1bbaf0cb" title="exportBitmap Exports the Geometrize bitmap data to an image format that Qt supports (depending on the..." alt="" coords="274,12,433,53"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1exporter.html#a6a508b358e88c41f55cf8ae8075d3f6d" title="exportImage Exports the image data to an image format that Qt supports (depending on the file extensi..." alt="" coords="516,71,675,112"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1exporter.html#a0a7580974d660e3db3f62cb34a6e8b4f" title="exportRasterizedSvg Exports the shape data as an image by rasterizing an SVG rendered from the shape ..." alt="" coords="271,129,436,171"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1image.html#a734fd75fa79fe16ed4e6a83e58d921c1" title="createImage Creates an image from the bitmap data object. Assumes RGBA8888 format." alt="" coords="519,5,672,47"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1exporter.html#ab0d675d519df9d1de8c22f8f522f6285" title="renderSvgShapeDataToImage Renders the given shape data to an image via an SVG." alt="" coords="484,136,707,177"/>
+</map>

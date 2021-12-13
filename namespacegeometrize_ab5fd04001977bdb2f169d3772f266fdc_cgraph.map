@@ -1,0 +1,4 @@
+<map id="geometrize::setGlobalPreferencesForLocale" name="geometrize::setGlobalPreferencesForLocale">
+<area shape="rect" id="node1" title="setGlobalPreferencesForLocale Sets the locale settings based on the given locale name." alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="296,5,477,47"/>
+</map>

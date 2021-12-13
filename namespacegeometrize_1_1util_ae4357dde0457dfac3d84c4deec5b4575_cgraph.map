@@ -1,0 +1,5 @@
+<map id="geometrize::util::arrangeWidgetsInGrid" name="geometrize::util::arrangeWidgetsInGrid">
+<area shape="rect" id="node1" title="arrangeWidgetsInGrid Arranges the given widgets into a grid shape" alt="" coords="5,35,188,76"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a47ca8458eed8c720d7c76cad0192926a" title="setWidgetPosition Sets the widget to the given position." alt="" coords="250,5,449,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a5ab695f344f7571a5caa8a60bf7964ad" title="setWidgetSize Sets the size of the given widget in pixels." alt="" coords="236,71,463,98"/>
+</map>

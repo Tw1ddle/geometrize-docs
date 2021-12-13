@@ -1,0 +1,12 @@
+<map id="geometrize::task::ImageTask::getPreferences" name="geometrize::task::ImageTask::getPreferences">
+<area shape="rect" id="node1" title="getPreferences Gets a reference to the current preferences of this task." alt="" coords="308,370,519,411"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a116afdcedc563ec371f12d1f05337e8d" title=" " alt="" coords="7,5,259,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#a327f42c1cc628ad7ca6449ce13b753e1" title=" " alt="" coords="5,85,260,141"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#a373d1f5ba4a30f6e7fd7f8c2d13b06c2" title=" " alt="" coords="22,166,243,237"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#a142233a7156810f668d4c6e641c638ae" title=" " alt="" coords="22,261,243,331"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#ab419bfd233eca700aa86a0ab5d5c6c6c" title=" " alt="" coords="11,355,254,426"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#ac7084ae1d05e9e2f49dc5034222d00e7" title=" " alt="" coords="22,450,243,521"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#abc6ebd79de7792e442f1edef493d86ae" title=" " alt="" coords="22,545,243,615"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#adc1fd51ee7174692e30ea66db3b5df42" title=" " alt="" coords="22,639,243,710"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1dialog_1_1_image_task_runner_widget_1_1_image_task_runner_widget_impl.html#af74e830c5713f9ac97c8a9e8e301279b" title=" " alt="" coords="22,734,243,805"/>
+</map>

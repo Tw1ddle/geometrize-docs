@@ -1,0 +1,9 @@
+<map id="geometrize::task::ImageTask::signal_drawShape" name="geometrize::task::ImageTask::signal_drawShape">
+<area shape="rect" id="node1" title="signal_drawShape Signal that the image task emits to draw a shape to the internal model." alt="" coords="595,108,805,149"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a055f6b1e35ba17092265bfc1cccc464a" title=" " alt="" coords="306,5,541,47"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#aea29c1f360dc4e40a72bb9c60eb5e71e" title=" " alt="" coords="311,71,535,112"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a0c009017fe4e4f6c241450fd99a829d3" title=" " alt="" coords="300,137,547,193"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a48ed5d2df141475314b3401c53a838bf" title=" " alt="" coords="318,217,529,259"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#ae50200e7e3159d7e740bfb0d5fd3fca1" title=" " alt="" coords="23,5,234,47"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a8a9f72ce4b412a007aca5e88d52d2086" title=" " alt="" coords="5,71,252,112"/>
+</map>

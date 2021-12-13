@@ -1,0 +1,4 @@
+<map id="geometrize::searchpaths::getAutosaveTaskSettingsFilename" name="geometrize::searchpaths::getAutosaveTaskSettingsFilename">
+<area shape="rect" id="node1" title="getAutomaticTaskSettingsFilename Gets the name of a task settings file to be autosaved (e...." alt="" coords="281,13,536,54"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a55f346035efb7dd5ea8818d8724f2404" title="getImageTaskPreferencesAutoSavePath Gets the absolute path to where the image task preferences config..." alt="" coords="5,5,233,61"/>
+</map>

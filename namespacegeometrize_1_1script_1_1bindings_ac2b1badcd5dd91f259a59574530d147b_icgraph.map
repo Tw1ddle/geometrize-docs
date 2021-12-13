@@ -1,0 +1,4 @@
+<map id="geometrize::script::bindings::createAnimatedGifExportBindings" name="geometrize::script::bindings::createAnimatedGifExportBindings">
+<area shape="rect" id="node1" title="createGifExportBindings Creates the ChaiScript to C++ bindings for saving animated GIFs." alt="" coords="239,5,436,61"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window script console." alt="" coords="5,13,191,54"/>
+</map>

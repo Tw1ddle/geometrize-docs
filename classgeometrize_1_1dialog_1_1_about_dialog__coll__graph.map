@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::AboutDialog" name="geometrize::dialog::AboutDialog">
+<area shape="rect" id="node1" title="The AboutDialog class models the UI for the vendor info, license details, credits etc." alt="" coords="5,80,149,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="40,5,115,32"/>
+</map>

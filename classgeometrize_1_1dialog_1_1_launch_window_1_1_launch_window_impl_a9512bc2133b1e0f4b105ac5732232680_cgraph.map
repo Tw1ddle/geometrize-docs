@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl::saveConsoleHistory" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl::saveConsoleHistory">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,239,87"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#af502e478ea4404f3f1a8ddb2ee2e8ad3" title="getAppDataLocation Returns a directory location where persistent application data can be stored." alt="" coords="299,5,478,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a933cc64687ace59b3141e6142eee96fc" title="writeStringVector Writes the string vector to the given filepath as JSON. Will attempt to overwrite a..." alt="" coords="287,71,491,112"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#af235c5c367ae471a8af6d490b434b50a" title="stringEndsWith Checks if a string ends with the given suffix." alt="" coords="539,71,709,112"/>
+</map>

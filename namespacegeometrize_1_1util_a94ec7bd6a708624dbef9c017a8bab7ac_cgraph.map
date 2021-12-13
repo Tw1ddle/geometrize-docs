@@ -1,0 +1,4 @@
+<map id="geometrize::util::readStringVector" name="geometrize::util::readStringVector">
+<area shape="rect" id="node1" title="readStringVector Reads the JSON file containing the vector of strings at the given filepath...." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#af235c5c367ae471a8af6d490b434b50a" title="stringEndsWith Checks if a string ends with the given suffix." alt="" coords="253,5,424,47"/>
+</map>

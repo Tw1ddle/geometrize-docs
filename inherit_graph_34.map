@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,192,39"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html" title="The GeometrizerEngine class encapsulates script&#45;based setup and mutation methods for geometrizing sha..." alt="" coords="285,5,440,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="15,78,183,105"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_graphics_item.html" title="The ImageTaskPixmapGraphicsItem class models a pixmap graphic item that goes into the scene for an im..." alt="" coords="249,71,477,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="61,355,136,382"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1network_1_1_downloader.html" title="The Downloader class is a helper class for downloading files over the network." alt="" coords="284,501,441,543"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1preferences_1_1_global_preferences.html" title="The GlobalPreferences class models the preferences associated with the application as a whole...." alt="" coords="272,567,453,608"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1_recent_items.html" title="The RecentItems class encapsulates a list of items that were recently interacted with...." alt="" coords="269,633,456,659"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1scene_1_1_image_task_scene_manager.html" title="The ImageTaskSceneManager manages the scenes representing the graphical state of the shapes It mostly..." alt="" coords="269,684,457,725"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1strings_1_1_strings.html" title="The Strings class contains methods for getting miscelleanous translatable strings." alt="" coords="289,136,437,177"/>
+<area shape="rect" id="node11" href="$classgeometrize_1_1_tablet_proximity_event_filter.html" title="The TabletProximityEventFilter captures tablet enter/exit proximity events (like when Wacom pens are ..." alt="" coords="259,201,466,243"/>
+<area shape="rect" id="node12" href="$classgeometrize_1_1task_1_1_image_task.html" title="The ImageTask class transforms a source image into a collection of shapes approximating the source im..." alt="" coords="257,267,468,294"/>
+<area shape="rect" id="node13" href="$classgeometrize_1_1task_1_1_image_task_worker.html" title="The ImageTaskWorker class transforms a source image into a collection of shapes. It is made to be run..." alt="" coords="257,319,468,360"/>
+<area shape="rect" id="node14" href="$classgeometrize_1_1task_1_1_shape_collection.html" title="The ShapeCollection class is a wrapper for the vector of shapes that have been added to the image tas..." alt="" coords="240,385,485,411"/>
+<area shape="rect" id="node15" href="$classgeometrize_1_1task_1_1_synchronous_image_task.html" title="The SynchronousImageTask class transforms a source image into a collection of shapes approximating th..." alt="" coords="251,436,474,477"/>
+</map>

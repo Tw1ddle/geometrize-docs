@@ -1,0 +1,13 @@
+<map id="geometrize::exporter::renderSvgShapeDataToImage" name="geometrize::exporter::renderSvgShapeDataToImage">
+<area shape="rect" id="node1" title="renderSvgShapeDataToImage Renders the given shape data to an image via an SVG." alt="" coords="1033,221,1256,262"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#a0a7580974d660e3db3f62cb34a6e8b4f" title="exportRasterizedSvg Exports the shape data as an image by rasterizing an SVG rendered from the shape ..." alt="" coords="820,221,985,262"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1script_1_1bindings.html#a05e9be1b7644325fb0b5a23e96c4da22" title="createImageExportBindings Creates the Chaiscript to C++ bindings for saving images." alt="" coords="555,104,772,160"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1exporter.html#a15adc0c3cede9d9470c80c744ec861dc" title="exportRasterizedSvgs Exports the shape data to images by rasterizing SVGs rendered from the shape dat..." alt="" coords="577,221,749,262"/>
+<area shape="rect" id="node11" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a2126045e1a7a24a470f552a7d678cf24" title=" " alt="" coords="555,286,772,357"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script.html#a171b3d1ddb11b8d5cca4d324a81254ca" title="createBatchImageTaskEngine Creates a Chaiscript engine for creating and processing multiple image tas..." alt="" coords="284,13,507,54"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window script console." alt="" coords="303,78,488,119"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1script.html#a80a470dfad9b67b45606269366a7dd67" title="createShapeMutatorEngine Creates a Chaiscript engine object for mutating shapes." alt="" coords="292,143,499,185"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#ab1dfaedee4461f069708a053a291f6f4" title=" " alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a33f4e0f89cf75caf62ad73d1b95eb420" title=" " alt="" coords="43,136,198,192"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#aada3c2996521f9acb86a62b5524a30d8" title=" " alt="" coords="287,209,504,279"/>
+</map>

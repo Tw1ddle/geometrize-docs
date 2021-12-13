@@ -1,0 +1,7 @@
+<map id="geometrize::dialog::LaunchWindow::on_runScriptButton_clicked" name="geometrize::dialog::LaunchWindow::on_runScriptButton_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,221,127"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1common_1_1ui.html#ace0ccb65dcd4a7590454fad6cc359b20" title=" " alt="" coords="270,13,454,54"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#ae16e58f41b573a5b00e2be466cefb209" title="readFileAsString Reads a file, returning a string containing the contents." alt="" coords="269,78,455,119"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1script.html#aaa4d41ee302051cc697b2d2090073e46" title="runScript Evaluates the provided script code." alt="" coords="292,143,432,185"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_run_script_dialog.html#a4de947cd64b611e0362f818d755a491a" title=" " alt="" coords="503,5,703,61"/>
+</map>

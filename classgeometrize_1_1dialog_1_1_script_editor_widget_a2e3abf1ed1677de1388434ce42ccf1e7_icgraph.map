@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::ScriptEditorWidget::signal_scriptChanged" name="geometrize::dialog::ScriptEditorWidget::signal_scriptChanged">
+<area shape="rect" id="node1" title="signal_scriptChanged Signal emitted when the user change the script code of a function." alt="" coords="285,57,455,113"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_scripting_widget_1_1_image_task_scripting_widget_impl.html#ad1a21b63c58e3e0e291c793ed8faa7cc" title=" " alt="" coords="5,5,237,76"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#a19b7c3a3d64ebe5c19d1bb6f94d6dab2" title=" " alt="" coords="6,101,237,157"/>
+</map>

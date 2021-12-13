@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,60,73"/>
+<area shape="rect" id="node2" href="$namespacegeometrize.html#ae699feb44ecf5a22f2b6d771f147b774" title="getSharedTabletProximityEventFilterInstance Gets a reference to the shared instance of the tablet pro..." alt="" coords="108,5,319,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1logging.html#a8e66885aede4d77a9a7db01245521d23" title="setupLogging Installs a log message handler. Logging in Geometrize uses the Qt QLoggingCategory loggi..." alt="" coords="137,71,289,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometrize::image::convertImageToBitmapWithDownscaling" name="geometrize::image::convertImageToBitmapWithDownscaling">
+<area shape="rect" id="node1" title="imageToBitmapWithDownscaling Creates a bitmap data object from the given image, downscaling in the pr..." alt="" coords="5,71,292,112"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1image.html#a34c68ca07c67683a6ce957150a38de29" title="createBitmap Creates a bitmap data object from the given image." alt="" coords="373,5,526,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="359,71,540,112"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a6f55fb065452504e93dc03b72218b49c" title="getImageTaskResizeThreshold Gets the maximum dimensions of an image that can be used in an image task..." alt="" coords="340,137,559,193"/>
+</map>

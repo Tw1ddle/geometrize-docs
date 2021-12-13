@@ -1,0 +1,6 @@
+<map id="geometrize::util::arrangeImageTaskWidgetsInGrid" name="geometrize::util::arrangeImageTaskWidgetsInGrid">
+<area shape="rect" id="node1" title="arrangeImageTaskWidgetsInGrid Arranges all the open image task widgets into a grid shape" alt="" coords="5,35,189,76"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#ae4357dde0457dfac3d84c4deec5b4575" title="arrangeWidgetsInGrid Arranges the given widgets into a grid shape" alt="" coords="237,35,420,76"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a47ca8458eed8c720d7c76cad0192926a" title="setWidgetPosition Sets the widget to the given position." alt="" coords="482,5,681,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#a5ab695f344f7571a5caa8a60bf7964ad" title="setWidgetSize Sets the size of the given widget in pixels." alt="" coords="468,71,695,98"/>
+</map>

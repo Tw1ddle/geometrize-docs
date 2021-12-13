@@ -1,0 +1,10 @@
+<map id="geometrize::scene::ImageTaskScene::ImageTaskSceneImpl" name="geometrize::scene::ImageTaskScene::ImageTaskSceneImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="668,76,945,117"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1scene_1_1_svg_item.html" title="The SvgItem class represents an SVG graphic that is drawn as part of a scene." alt="" coords="261,5,412,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="18,10,161,37"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_graphics_item.html" title="The ImageTaskPixmapGraphicsItem class models a pixmap graphic item that goes into the scene for an im..." alt="" coords="223,76,451,117"/>
+<area shape="rect" id="node5" title=" " alt="" coords="52,61,127,87"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,111,173,138"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1scene_1_1_image_task_scene.html" title="The ImageTaskScene class models a graphics scene for viewing the results of image tasks." alt="" coords="261,152,412,193"/>
+<area shape="rect" id="node8" title=" " alt="" coords="25,162,153,189"/>
+</map>

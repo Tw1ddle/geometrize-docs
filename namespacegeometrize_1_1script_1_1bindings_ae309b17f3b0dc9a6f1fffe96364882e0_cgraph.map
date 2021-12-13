@@ -1,0 +1,7 @@
+<map id="geometrize::script::bindings::arrangeImageTaskWidgetsInGrid" name="geometrize::script::bindings::arrangeImageTaskWidgetsInGrid">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,219,83"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a0322b9bbe0ca186741d04bdf904d9ce6" title="arrangeImageTaskWidgetsInGrid Arranges all the open image task widgets into a grid shape" alt="" coords="267,35,451,76"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#ae4357dde0457dfac3d84c4deec5b4575" title="arrangeWidgetsInGrid Arranges the given widgets into a grid shape" alt="" coords="499,35,681,76"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#a47ca8458eed8c720d7c76cad0192926a" title="setWidgetPosition Sets the widget to the given position." alt="" coords="743,5,942,47"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1util.html#a5ab695f344f7571a5caa8a60bf7964ad" title="setWidgetSize Sets the size of the given widget in pixels." alt="" coords="729,71,956,98"/>
+</map>

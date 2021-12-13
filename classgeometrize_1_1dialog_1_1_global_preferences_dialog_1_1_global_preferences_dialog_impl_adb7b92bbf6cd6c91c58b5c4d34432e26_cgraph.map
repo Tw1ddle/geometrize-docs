@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::setShouldUseCustomImageTaskBackgroundOverrideColor" name="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::setShouldUseCustomImageTaskBackgroundOverrideColor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,42,321,127"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#af3a932050401bc18de5d9863a8fa697d" title=" " alt="" coords="427,5,647,76"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a5bfd7cd01b85d22b07fa5b2a2cd282fe" title="setShouldUseCustomImageTaskBackgroundOverrideColor Sets the preference for whether to use the custom ..." alt="" coords="369,101,704,157"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="752,20,933,61"/>
+</map>

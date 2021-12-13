@@ -1,0 +1,11 @@
+<map id="geometrize::dialog::RecentTasksList::RecentTasksListImpl::setupConnections" name="geometrize::dialog::RecentTasksList::RecentTasksListImpl::setupConnections">
+<area shape="rect" id="node1" title=" " alt="" coords="5,225,228,281"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a86b24ed271c193ed40fa54680a5b2bd6" title=" " alt="" coords="276,145,499,201"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a7f9c817d78aedfb6bfd560996f7a9448" title=" " alt="" coords="276,225,499,281"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#aec38495bc711018ae75c67e3a1d90c48" title=" " alt="" coords="276,305,499,361"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_recent_item.html#a90cf5eb36d7cc1305648cf4f6dce3878" title=" " alt="" coords="591,5,770,47"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a869e6557e4a84e1c954c15919bf88510" title=" " alt="" coords="547,71,815,127"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_recent_item.html#a0c9ff9070ba755268efb8e7be1d22266" title=" " alt="" coords="591,152,770,193"/>
+<area shape="rect" id="node6" href="$namespacegeometrize.html#af51abd38b57d1666feaadb228ee6cb01" title="getRecentItems Gets a reference to the recent files list." alt="" coords="577,218,784,245"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1_recent_items.html#a43054aa813db887cc3a6865a8eaccfaa" title="remove Removes an item from the recent items." alt="" coords="587,269,774,311"/>
+</map>

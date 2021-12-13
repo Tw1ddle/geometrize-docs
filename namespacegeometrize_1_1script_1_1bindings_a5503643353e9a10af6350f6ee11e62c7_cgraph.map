@@ -1,0 +1,4 @@
+<map id="geometrize::script::bindings::getScriptSearchPaths" name="geometrize::script::bindings::getScriptSearchPaths">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,200,61"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1searchpaths.html#a665827b87aa207644062e6e04eda4bc2" title="getScriptSearchPaths Gets the directory paths that the program will search for scripts...." alt="" coords="248,13,431,54"/>
+</map>

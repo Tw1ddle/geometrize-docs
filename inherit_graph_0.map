@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,177,80,203"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_about_dialog.html" title="The AboutDialog class models the UI for the vendor info, license details, credits etc." alt="" coords="151,5,295,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_credits_dialog.html" title="The CreditsDialog class models the UI for the developer, artwork, localization etc credits pages." alt="" coords="151,71,295,112"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog.html" title="The GlobalPreferencesDialog class models the UI for a tabbed preferences dialog for application&#45;level..." alt="" coords="128,136,319,177"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_license_dialog.html" title="The LicenseDialog class models the UI for the software license text and notices." alt="" coords="151,201,295,243"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_open_url_dialog.html" title="The OpenUrlDialog class models the UI for the dialog box users can enter URLs into to open remote ima..." alt="" coords="151,267,295,308"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1dialog_1_1_run_script_dialog.html" title="The RunScriptDialog class models the UI for picking scripts to run, and specifying script options." alt="" coords="151,332,295,373"/>
+</map>

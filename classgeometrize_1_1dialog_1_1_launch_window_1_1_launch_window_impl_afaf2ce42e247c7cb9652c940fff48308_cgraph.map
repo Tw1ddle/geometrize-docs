@@ -1,0 +1,8 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl::setupLogo" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl::setupLogo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,239,149"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1image.html#a34c68ca07c67683a6ce957150a38de29" title="createBitmap Creates a bitmap data object from the given image." alt="" coords="327,5,480,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1image.html#a78728adf50a0f3fc4ed7c64b2537a00b" title="createPixmap Creates a pixmap from the bitmap data object. Assumes RGBA8888 format." alt="" coords="327,71,480,112"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="568,165,749,207"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#af81e2308d87172e561c90ab9dd752749" title=" " alt="" coords="287,187,520,243"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1image.html#a734fd75fa79fe16ed4e6a83e58d921c1" title="createImage Creates an image from the bitmap data object. Assumes RGBA8888 format." alt="" coords="582,71,735,112"/>
+</map>

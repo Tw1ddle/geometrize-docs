@@ -1,0 +1,8 @@
+<map id="geometrize::script::bindings::createSynchronousImageTaskBindings" name="geometrize::script::bindings::createSynchronousImageTaskBindings">
+<area shape="rect" id="node1" title="createSynchronousImageTaskBindings Creates the Chaiscript to C++ bindings for synchronous Geometrize ..." alt="" coords="555,116,772,172"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a171b3d1ddb11b8d5cca4d324a81254ca" title="createBatchImageTaskEngine Creates a Chaiscript engine for creating and processing multiple image tas..." alt="" coords="284,13,507,54"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script.html#aefd5a4a0ceab73c664e53cc4bd28513b" title="createFunctionalTestRunnerEngine Creates a Chaiscript engine object for running functional tests." alt="" coords="290,79,501,135"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window script console." alt="" coords="303,159,488,201"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script.html#a45f01248e318f87d0949b26a97f92582" title="createLaunchWindowEngine Creates a Chaiscript engine object for the launch window script console." alt="" coords="289,225,502,266"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#ab1dfaedee4461f069708a053a291f6f4" title=" " alt="" coords="5,5,236,61"/>
+</map>

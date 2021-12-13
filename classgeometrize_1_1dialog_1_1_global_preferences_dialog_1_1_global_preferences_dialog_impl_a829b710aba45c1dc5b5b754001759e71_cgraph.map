@@ -1,0 +1,7 @@
+<map id="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::~GlobalPreferencesDialogImpl" name="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::~GlobalPreferencesDialogImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,236,141"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a702e5da6070f03308388e9177872591d" title="getGlobalPreferencesConfigPath Gets the absolute path to where the global preferences config file sho..." alt="" coords="284,5,523,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#af3a932050401bc18de5d9863a8fa697d" title=" " alt="" coords="293,71,513,141"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#aa6b8acadb1db789581c5e4a9f0aeb955" title="save Saves the global preferences to a file." alt="" coords="309,165,497,207"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="571,85,752,127"/>
+</map>

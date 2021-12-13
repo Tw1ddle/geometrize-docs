@@ -1,0 +1,4 @@
+<map id="geometrize::script::bindings::broadcastCommandObject" name="geometrize::script::bindings::broadcastCommandObject">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,229,61"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#addecb3e0166e32d50c736579b83e2cdf" title="broadcastCommand Sends a command to all command handlers" alt="" coords="277,13,475,54"/>
+</map>

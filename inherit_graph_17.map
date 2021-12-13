@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classgeometrize_1_1script_1_1_command_handler.html" title="The CommandHandler class provides an interface that all objects that can handle/process script comman..." alt="" coords="5,40,153,81"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_image_task_window.html" title="The ImageTaskWindow class encapsulates the UI for manipiulating, running and viewing an image task th..." alt="" coords="202,5,354,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_launch_window.html" title="The LaunchWindow class models the UI for a launchpad for opening new task templates and recent tasks." alt="" coords="206,71,350,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,109,137,135"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_task_queue_window.html" title="The TaskQueueWindow class encapsulates the UI for creating, configuring and executing a collection of..." alt="" coords="201,136,355,177"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_welcome_window.html" title="The WelcomeWindow class models the UI for a quickstart tutorial/welcome page shown to users on first ..." alt="" coords="206,201,350,243"/>
+</map>

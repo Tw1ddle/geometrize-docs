@@ -1,0 +1,7 @@
+<map id="geometrize::dialog::ImageTaskScriptingWidget::ImageTaskScriptingWidgetImpl" name="geometrize::dialog::ImageTaskScriptingWidget::ImageTaskScriptingWidgetImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="109,185,341,241"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task.html" title="The ImageTask class transforms a source image into a collection of shapes approximating the source im..." alt="" coords="5,89,216,115"/>
+<area shape="rect" id="node3" title=" " alt="" coords="73,5,148,32"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_image_task_scripting_widget.html" title="The ImageTaskScriptingWidget implements a widget for manipulating scripts that are run when an image ..." alt="" coords="240,81,443,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="302,5,381,32"/>
+</map>

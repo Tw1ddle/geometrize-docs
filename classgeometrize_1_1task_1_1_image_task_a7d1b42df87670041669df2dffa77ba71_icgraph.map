@@ -1,0 +1,4 @@
+<map id="geometrize::task::ImageTask::signal_modelWillStep" name="geometrize::task::ImageTask::signal_modelWillStep">
+<area shape="rect" id="node1" title="signal_modelWillStep Signal that is emitted immediately before the underlying image task model is ste..." alt="" coords="285,5,496,47"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a4bc3898a67b872e34c5a28fcbb40be16" title=" " alt="" coords="5,5,237,47"/>
+</map>

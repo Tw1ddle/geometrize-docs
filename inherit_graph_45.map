@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,133,73"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1scene_1_1_image_task_scene.html" title="The ImageTaskScene class models a graphics scene for viewing the results of image tasks." alt="" coords="181,39,332,80"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_scene.html" title="The ImageTaskPixmapScene class models a graphics scene for viewing the pixmap&#45;based results of image ..." alt="" coords="380,5,560,47"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1scene_1_1_image_task_svg_scene.html" title="The ImageTaskSvgScene class models a graphics scene for viewing the shape data of an image task as an..." alt="" coords="393,71,547,112"/>
+</map>

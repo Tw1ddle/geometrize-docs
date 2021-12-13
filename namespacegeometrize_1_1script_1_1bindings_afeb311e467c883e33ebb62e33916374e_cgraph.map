@@ -1,0 +1,4 @@
+<map id="geometrize::script::bindings::getAllNamedGeometrizeWidgets" name="geometrize::script::bindings::getAllNamedGeometrizeWidgets">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,260,61"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a2bb2ddfe37076849d15160011b5d2b72" title="getAllWidgetNames Returns a vector containing the names of all the widgets in the application with &quot;g..." alt="" coords="308,13,507,54"/>
+</map>

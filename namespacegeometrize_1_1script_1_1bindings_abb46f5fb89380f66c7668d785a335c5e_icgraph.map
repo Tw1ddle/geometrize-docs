@@ -1,0 +1,5 @@
+<map id="geometrize::script::bindings::createMathBindings" name="geometrize::script::bindings::createMathBindings">
+<area shape="rect" id="node1" title="createMathBindings Creates the Chaiscript to C++ bindings for common math functions." alt="" coords="463,13,685,54"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a80a470dfad9b67b45606269366a7dd67" title="createShapeMutatorEngine Creates a Chaiscript engine object for mutating shapes." alt="" coords="208,13,415,54"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a33f4e0f89cf75caf62ad73d1b95eb420" title=" " alt="" coords="5,5,160,61"/>
+</map>

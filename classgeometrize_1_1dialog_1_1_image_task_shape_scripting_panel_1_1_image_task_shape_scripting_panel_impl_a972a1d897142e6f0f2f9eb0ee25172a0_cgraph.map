@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::ImageTaskShapeScriptingPanel::ImageTaskShapeScriptingPanelImpl::setupPreset" name="geometrize::dialog::ImageTaskShapeScriptingPanel::ImageTaskShapeScriptingPanelImpl::setupPreset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,28,267,99"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a0e90f7653842d53a1d803aa61148e6be" title="getDefaultScripts Gets a map of the default scripts used for shape creation and mutation in image tas..." alt="" coords="315,5,549,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1script.html#a4dba70f79cf0fd035792719367456f4c" title="getPointerAreaOfInterestScripts Gets a map of the scripts used for shape creation and mutation based ..." alt="" coords="336,71,528,127"/>
+</map>

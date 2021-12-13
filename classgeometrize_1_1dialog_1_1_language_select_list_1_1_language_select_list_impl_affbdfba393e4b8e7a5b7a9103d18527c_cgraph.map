@@ -1,0 +1,8 @@
+<map id="geometrize::dialog::LanguageSelectList::LanguageSelectListImpl::setupLanguageSelect" name="geometrize::dialog::LanguageSelectList::LanguageSelectListImpl::setupLanguageSelect">
+<area shape="rect" id="node1" title=" " alt="" coords="5,45,191,116"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_language_select_list_1_1_language_select_list_impl.html#adb3975326368420edf6768a623e2a489" title=" " alt="" coords="241,5,427,76"/>
+<area shape="rect" id="node4" href="$namespacegeometrize.html#af08a9a878876f0fb701b08cff6d2a8e0" title="getSupportedLocaleCodes Iterates over the embedded .qm files and extracts the ISO language codes from..." alt="" coords="239,100,429,141"/>
+<area shape="rect" id="node3" href="$namespacegeometrize.html#a098a71b874a3de72120a9d6ef0b142b7" title="getFlagIconForLocaleCode Gets a representative national flag for the given locale code." alt="" coords="497,20,697,61"/>
+<area shape="rect" id="node5" href="$namespacegeometrize.html#ad405950062d0de117bb35b04aefefde4" title="getAppTranslationResourceDirectory Gets the resource path where translation files specific to the app..." alt="" coords="486,92,707,133"/>
+<area shape="rect" id="node6" href="$namespacegeometrize.html#af5be332ff9437b0c412cd330d2fa72f7" title="getBinaryTranslationFileExtension Gets the file extension for Qt binary translation files." alt="" coords="477,157,716,199"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::syncUiWithPreferences" name="geometrize::dialog::GlobalPreferencesDialog::GlobalPreferencesDialogImpl::syncUiWithPreferences">
+<area shape="rect" id="node1" title=" " alt="" coords="5,53,225,124"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#af3a932050401bc18de5d9863a8fa697d" title=" " alt="" coords="273,5,493,76"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#abf48491d6dda6593bdbb07932926e732" title=" " alt="" coords="273,100,493,171"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="541,20,723,61"/>
+</map>

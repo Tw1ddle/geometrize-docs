@@ -1,0 +1,6 @@
+<map id="geometrize::test::setTestScriptDirectories" name="geometrize::test::setTestScriptDirectories">
+<area shape="rect" id="node1" title="setTestScriptDirectories Sets the directories containing self&#45;test scripts to run" alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#ac098e8f1a0d7af2af04e968bcbeeb15b" title="getScriptsForPaths Gets the absolute file paths to the script files (*.chai) for the given directorie..." alt="" coords="236,5,435,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a28c2d23d34bbde91ce2f32d3ae67a2d7" title="getScriptsForPath Gets the absolute file paths to the script files (*.chai) for the given directory,..." alt="" coords="483,5,681,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#ad70165a385d9842365261faddfbe3971" title="directoryExists Checks if a directory exists, returns true if it does." alt="" coords="729,5,920,47"/>
+</map>

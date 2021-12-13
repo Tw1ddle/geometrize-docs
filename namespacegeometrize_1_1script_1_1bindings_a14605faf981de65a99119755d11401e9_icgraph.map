@@ -1,0 +1,6 @@
+<map id="geometrize::script::bindings::createImageBindings" name="geometrize::script::bindings::createImageBindings">
+<area shape="rect" id="node1" title="createImageBindings Creates the Chaiscript to C++ bindings for image manipulation." alt="" coords="555,46,785,87"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a171b3d1ddb11b8d5cca4d324a81254ca" title="createBatchImageTaskEngine Creates a Chaiscript engine for creating and processing multiple image tas..." alt="" coords="284,13,507,54"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window script console." alt="" coords="303,78,488,119"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#ab1dfaedee4461f069708a053a291f6f4" title=" " alt="" coords="5,5,236,61"/>
+</map>

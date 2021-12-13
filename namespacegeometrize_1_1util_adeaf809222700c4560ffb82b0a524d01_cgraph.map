@@ -1,0 +1,7 @@
+<map id="geometrize::util::arrangeWidgetsInGridOnPrimaryMonitor" name="geometrize::util::arrangeWidgetsInGridOnPrimaryMonitor">
+<area shape="rect" id="node1" title="arrangeWidgetsInGridOnPrimaryMonitor Arranges the given widgets into a grid on the primary monitor" alt="" coords="5,35,239,76"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#ae47f256bd6c1e9af73a34d22cb4edeee" title="arrangeWidgetsInGridOnMonitor Arranges the given widgets into a grid on the given monitor" alt="" coords="287,35,469,76"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#ae4357dde0457dfac3d84c4deec5b4575" title="arrangeWidgetsInGrid Arranges the given widgets into a grid shape" alt="" coords="517,35,700,76"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#a47ca8458eed8c720d7c76cad0192926a" title="setWidgetPosition Sets the widget to the given position." alt="" coords="762,5,961,47"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1util.html#a5ab695f344f7571a5caa8a60bf7964ad" title="setWidgetSize Sets the size of the given widget in pixels." alt="" coords="748,71,975,98"/>
+</map>

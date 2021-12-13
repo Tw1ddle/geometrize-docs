@@ -1,0 +1,7 @@
+<map id="geometrize::dialog::RunScriptDialog::on_buttonBox_accepted" name="geometrize::dialog::RunScriptDialog::on_buttonBox_accepted">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,168,149"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a9c69c8aa6544acd5ffa740ffa4d4c65f" title="fileExists Checks if a file exists, returns true if it does." alt="" coords="220,5,412,32"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_run_script_dialog.html#a4de947cd64b611e0362f818d755a491a" title=" " alt="" coords="216,56,416,112"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#ae16e58f41b573a5b00e2be466cefb209" title="readFileAsString Reads a file, returning a string containing the contents." alt="" coords="223,137,409,178"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1script.html#aaa4d41ee302051cc697b2d2090073e46" title="runScript Evaluates the provided script code." alt="" coords="246,202,386,243"/>
+</map>

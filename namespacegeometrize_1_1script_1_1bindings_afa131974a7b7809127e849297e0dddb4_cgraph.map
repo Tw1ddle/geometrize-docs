@@ -1,0 +1,9 @@
+<map id="geometrize::script::bindings::createUserInterfacePuppeteerBindings" name="geometrize::script::bindings::createUserInterfacePuppeteerBindings">
+<area shape="rect" id="node1" title="createUserInterfacePuppeteerBindings Creates ChaiScript to C++ bindings for driving the user interfac..." alt="" coords="5,63,228,119"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script_1_1bindings.html#ac4eb290bdef2168ac1b9711e97f26820" title=" " alt="" coords="283,5,448,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script_1_1bindings.html#a571b89f747c6629d20a7ee10cc293ad1" title=" " alt="" coords="283,71,447,112"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script_1_1bindings.html#a31a422d3e6fb350432431b2e59f5eedd" title=" " alt="" coords="276,136,455,177"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#ab8a7eff2d4c631aa492ba3382a36aad4" title="getCursorX Gets the x&#45;coordinate of the cursor in global screen coordinates." alt="" coords="509,13,715,39"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1util.html#a7081e11ef19a5b5b73534184d529148d" title="getCursorY Gets the y&#45;coordinate of the cursor in global screen coordinates." alt="" coords="510,78,714,105"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1util.html#ac0e757a93bba4caec6c479c227c9c34e" title="setCursorPos Sets the cursor position in global screen coordinates." alt="" coords="503,143,721,170"/>
+</map>

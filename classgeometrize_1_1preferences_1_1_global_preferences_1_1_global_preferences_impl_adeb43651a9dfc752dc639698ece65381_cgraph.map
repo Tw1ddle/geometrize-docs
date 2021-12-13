@@ -1,0 +1,7 @@
+<map id="geometrize::preferences::GlobalPreferences::GlobalPreferencesImpl::GlobalPreferencesImpl" name="geometrize::preferences::GlobalPreferences::GlobalPreferencesImpl::GlobalPreferencesImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,281,91"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a702e5da6070f03308388e9177872591d" title="getGlobalPreferencesConfigPath Gets the absolute path to where the global preferences config file sho..." alt="" coords="348,5,587,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_global_preferences_1_1_global_preferences_impl.html#a4e4dff8c6754da45f58e2ab7e3b98348" title=" " alt="" coords="329,71,605,127"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_global_preferences_1_1_global_preferences_impl.html#a5957519a00cb58d84a657b5bd1ed987c" title=" " alt="" coords="653,71,929,127"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1serialization_1_1_global_preferences_data.html#ad620e4c846ca3d0f5c2831ee7aff8b2a" title=" " alt="" coords="977,71,1161,127"/>
+</map>

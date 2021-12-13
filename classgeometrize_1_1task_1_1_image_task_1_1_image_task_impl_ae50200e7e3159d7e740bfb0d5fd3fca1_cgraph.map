@@ -1,0 +1,12 @@
+<map id="geometrize::task::ImageTask::ImageTaskImpl::init" name="geometrize::task::ImageTask::ImageTaskImpl::init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,216,216,257"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a055f6b1e35ba17092265bfc1cccc464a" title=" " alt="" coords="264,103,499,144"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a12c18f52294625b72f5d57abea2f43fd" title="getEngine Gets a pointer to the script engine used by the shape mutation engine." alt="" coords="304,169,459,225"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#a148bad17dfa93526878c9ab11f2fc9f1" title="getImageRunnerOptions Gets a copy of the image runner options." alt="" coords="287,249,475,305"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#a8da0c9d9f1e66bb4d0986555ce61591b" title=" " alt="" coords="276,329,487,371"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1task_1_1_image_task_worker.html#a940b84c9e8de9876c0b82b212ad268e7" title="drawShape Draws a shape with the given color to the image task. Emits the willStep signal when called..." alt="" coords="547,5,757,47"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1task_1_1_image_task.html#a4dbb1b1bf5769ed2fa0f63c202948a28" title=" " alt="" coords="547,71,757,112"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1task_1_1_image_task.html#aaed8404e7c9fc4e20f73f1b6ce4deeb6" title=" " alt="" coords="547,136,757,177"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1task_1_1_image_task_worker.html#a05be691e2aefcf8994b399f0821fd391" title="step Steps the image task worker. Emits the willStep signal when called, and didStep signal on comple..." alt="" coords="547,201,757,243"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1task_1_1_image_task_worker.html#a26accddf779640aaf60c2ad75781ced2" title="getTarget Gets the current target bitmap." alt="" coords="547,329,757,371"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="geometrize::scene::ImageTaskSceneManager::ImageTaskSceneManagerImpl::setAreaOfInfluenceShape" name="geometrize::scene::ImageTaskSceneManager::ImageTaskSceneManagerImpl::setAreaOfInfluenceShape">
+<area shape="rect" id="node1" title=" " alt="" coords="5,28,231,99"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1scene_1_1_image_task_scene.html#a07f3fa502560b38b0d8f4c2939a8946f" title="getTargetPixmapItem Gets a refernece to the graphics item that houses the target pixmap." alt="" coords="279,5,557,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1scene_1_1_image_task_scene.html#ac7b18e36e395bd3c239e696409794d60" title="setOverlayItem Sets the given overlay shape upon the scene." alt="" coords="313,71,523,127"/>
+</map>

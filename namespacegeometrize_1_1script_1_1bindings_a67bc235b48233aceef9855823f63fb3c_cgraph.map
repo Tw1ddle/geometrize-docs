@@ -1,0 +1,5 @@
+<map id="geometrize::script::bindings::getFilenameTimestamp" name="geometrize::script::bindings::getFilenameTimestamp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,253,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a76ea7c96398f2bccb664b88aa7b3d0ad" title="getFilenameTimestamp Gets a filename timestamp string for the current local time" alt="" coords="301,5,516,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a367feaa88ef9d58a2b77cdfd2df06438" title="getFormattedTimestamp Gets a formatted timestamp for the current local time" alt="" coords="564,5,785,47"/>
+</map>

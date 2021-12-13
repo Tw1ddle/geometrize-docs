@@ -1,0 +1,8 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl::onLanguageChange" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl::onLanguageChange">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,239,119"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#af5428f88bdbb69c39eda785b12e22999" title=" " alt="" coords="287,63,520,119"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1strings_1_1_strings.html#a65934777fa218e04434654d9f0455fbe" title="getApplicationName Gets the name of the application." alt="" coords="577,5,793,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1version.html#a3ccc3f6cac6337420af7a7dfd9272cb3" title="getApplicationVersionString Gets the application version as a string in VERSION.MAJOR...." alt="" coords="579,71,790,112"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#af81e2308d87172e561c90ab9dd752749" title=" " alt="" coords="568,137,801,193"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="849,144,1031,185"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl" name="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="113,185,330,241"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task.html" title="The ImageTask class transforms a source image into a collection of shapes approximating the source im..." alt="" coords="5,89,216,115"/>
+<area shape="rect" id="node3" title=" " alt="" coords="73,5,148,32"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget.html" title="The ImageTaskExportWidget implements a widget for accessing and using the image task exporters e...." alt="" coords="241,81,429,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="295,5,374,32"/>
+</map>

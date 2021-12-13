@@ -1,0 +1,5 @@
+<map id="geometrize::preferences::GlobalPreferences::setImageTaskResizeThreshold" name="geometrize::preferences::GlobalPreferences::setImageTaskResizeThreshold">
+<area shape="rect" id="node1" title="setImageTaskResizeThreshold Sets the maximum dimensions of an image that can be used in an image task..." alt="" coords="364,61,583,117"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#af7975aa398cc07ecd5d8e3ca3f80b4c9" title=" " alt="" coords="5,5,316,76"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_global_preferences_dialog_1_1_global_preferences_dialog_impl.html#a9127cc3243502cdac9ec9a9ae16b9fec" title=" " alt="" coords="7,100,314,171"/>
+</map>

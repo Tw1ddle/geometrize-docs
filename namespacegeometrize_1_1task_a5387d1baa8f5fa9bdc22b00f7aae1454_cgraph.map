@@ -1,0 +1,9 @@
+<map id="geometrize::task::createImageTaskAndWindow" name="geometrize::task::createImageTaskAndWindow">
+<area shape="rect" id="node1" title="createImageTaskAndWindow Creates an image task, and immediately creates a graphical window for manipu..." alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1image.html#acbeb2b0bb2bb36587d78e3e2763f1596" title="imageToBitmapWithDownscaling Creates a bitmap data object from the given image, downscaling in the pr..." alt="" coords="235,71,521,112"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_image_task_window.html#a5ee1d6af2acb7f2137201eaed0fb0b82" title="setImageTask Sets the current image task shown by the window." alt="" coords="253,136,503,177"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1task_1_1_image_task.html#a7e6baaa53b47e96027c7e8c6f22e95bc" title="setPreferences Sets the preferences for this task." alt="" coords="273,201,483,243"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1image.html#a34c68ca07c67683a6ce957150a38de29" title="createBitmap Creates a bitmap data object from the given image." alt="" coords="602,5,755,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="588,71,769,112"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a6f55fb065452504e93dc03b72218b49c" title="getImageTaskResizeThreshold Gets the maximum dimensions of an image that can be used in an image task..." alt="" coords="569,137,788,193"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometrize::exporter::exportRasterizedSvgs" name="geometrize::exporter::exportRasterizedSvgs">
+<area shape="rect" id="node1" title="exportRasterizedSvgs Exports the shape data to images by rasterizing SVGs rendered from the shape dat..." alt="" coords="5,39,177,80"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#a0a7580974d660e3db3f62cb34a6e8b4f" title="exportRasterizedSvg Exports the shape data as an image by rasterizing an SVG rendered from the shape ..." alt="" coords="225,39,391,80"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1exporter.html#a6a508b358e88c41f55cf8ae8075d3f6d" title="exportImage Exports the image data to an image format that Qt supports (depending on the file extensi..." alt="" coords="471,5,629,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1exporter.html#ab0d675d519df9d1de8c22f8f522f6285" title="renderSvgShapeDataToImage Renders the given shape data to an image via an SVG." alt="" coords="439,71,661,112"/>
+</map>

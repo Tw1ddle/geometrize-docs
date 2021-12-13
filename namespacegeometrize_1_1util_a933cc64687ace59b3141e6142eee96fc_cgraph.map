@@ -1,0 +1,4 @@
+<map id="geometrize::util::writeStringVector" name="geometrize::util::writeStringVector">
+<area shape="rect" id="node1" title="writeStringVector Writes the string vector to the given filepath as JSON. Will attempt to overwrite a..." alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#af235c5c367ae471a8af6d490b434b50a" title="stringEndsWith Checks if a string ends with the given suffix." alt="" coords="257,5,428,47"/>
+</map>

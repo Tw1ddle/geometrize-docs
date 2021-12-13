@@ -1,0 +1,5 @@
+<map id="geometrize::scene::CustomTabletEvent" name="geometrize::scene::CustomTabletEvent">
+<area shape="rect" id="node1" title="The CustomTabletEvent class represents a tablet event (specifically from a Wacom Pro pen) that can be..." alt="" coords="103,109,254,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,171,39"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1scene_1_1_tablet_event_data.html" title="The TabletEventData class represents data produced from a Wacom pen/tablet event (in the context of a..." alt="" coords="195,5,346,47"/>
+</map>

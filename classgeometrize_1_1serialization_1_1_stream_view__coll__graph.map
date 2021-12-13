@@ -1,0 +1,4 @@
+<map id="geometrize::serialization::StreamView" name="geometrize::serialization::StreamView">
+<area shape="rect" id="node1" title="The StreamView class defines a custom stream buffer view that allows Cereal to work with Qt resources..." alt="" coords="5,80,189,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="39,5,156,32"/>
+</map>

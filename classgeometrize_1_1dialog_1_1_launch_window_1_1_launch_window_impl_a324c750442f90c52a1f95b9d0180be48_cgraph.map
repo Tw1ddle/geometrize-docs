@@ -1,0 +1,13 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl::handleCommand" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl::handleCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,217,239,273"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1script_1_1_command.html#a184b609d33b0301a806b06a5a2168ce8" title=" " alt="" coords="310,5,503,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1script_1_1_command.html#a5bf7eac7dfa2d2d696d7d384add332fb" title=" " alt="" coords="313,71,500,112"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_launch_window.html#ae191794b904babea63ae0f0bfcd71fd3" title=" " alt="" coords="291,137,523,193"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1dialog_1_1_launch_window.html#ac8cdfe5c2da08258f820672393b88ab6" title=" " alt="" coords="295,217,518,273"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1dialog_1_1_launch_window.html#a621eab83e235721a49e1fa8af3513d86" title=" " alt="" coords="287,297,527,353"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1dialog_1_1_launch_window.html#a327eb96053e19956bc0a52fcc541813d" title=" " alt="" coords="292,377,521,433"/>
+<area shape="rect" id="node11" href="$classgeometrize_1_1dialog_1_1_launch_window.html#a862ea5ca747229d8eba7fcd44f82c168" title=" " alt="" coords="291,457,522,513"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_recent_items.html#ac1f6f944c80fd5bae9bc61bb9a0593e8" title="clear Removes all items from the recent items." alt="" coords="585,115,771,156"/>
+<area shape="rect" id="node6" href="$namespacegeometrize.html#af51abd38b57d1666feaadb228ee6cb01" title="getRecentItems Gets a reference to the recent files list." alt="" coords="575,181,781,207"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1common_1_1ui.html#a82aa42f635015304006c88553c3e7038" title=" " alt="" coords="577,304,779,345"/>
+</map>

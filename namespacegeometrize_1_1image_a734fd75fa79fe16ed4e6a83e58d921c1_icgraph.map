@@ -1,0 +1,13 @@
+<map id="geometrize::image::createImage" name="geometrize::image::createImage">
+<area shape="rect" id="node1" title="createImage Creates an image from the bitmap data object. Assumes RGBA8888 format." alt="" coords="1043,61,1196,102"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1image.html#a78728adf50a0f3fc4ed7c64b2537a00b" title="createPixmap Creates a pixmap from the bitmap data object. Assumes RGBA8888 format." alt="" coords="839,21,992,62"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1exporter.html#a0a0e657295b11e6e30b425bb1bbaf0cb" title="exportBitmap Exports the Geometrize bitmap data to an image format that Qt supports (depending on the..." alt="" coords="836,93,995,134"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#afaf2ce42e247c7cb9652c940fff48308" title=" " alt="" coords="555,5,788,61"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1script_1_1bindings.html#a46d0b7752c037c6b98c8e2e38c32ee36" title="createGeometrizeLibraryBindings Creates the Chaiscript to C++ bindings for all of the functionality i..." alt="" coords="566,85,777,141"/>
+<area shape="rect" id="node11" href="$namespacegeometrize_1_1script_1_1bindings.html#a05e9be1b7644325fb0b5a23e96c4da22" title="createImageExportBindings Creates the Chaiscript to C++ bindings for saving images." alt="" coords="563,165,780,221"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script.html#a171b3d1ddb11b8d5cca4d324a81254ca" title="createBatchImageTaskEngine Creates a Chaiscript engine for creating and processing multiple image tas..." alt="" coords="284,67,507,109"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1script.html#a7ccf0a9822183bf2adf388c351f31aba" title="createImageTaskEngine Creates a Chaiscript engine for an image task window script console." alt="" coords="303,133,488,174"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1script.html#a80a470dfad9b67b45606269366a7dd67" title="createShapeMutatorEngine Creates a Chaiscript engine object for mutating shapes." alt="" coords="292,198,499,239"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1dialog_1_1_task_queue_window_1_1_task_queue_window_impl.html#ab1dfaedee4461f069708a053a291f6f4" title=" " alt="" coords="5,60,236,116"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a33f4e0f89cf75caf62ad73d1b95eb420" title=" " alt="" coords="43,191,198,247"/>
+</map>

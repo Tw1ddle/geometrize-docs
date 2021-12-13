@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::CommandLineEdit::signal_commandSubmitted" name="geometrize::dialog::CommandLineEdit::signal_commandSubmitted">
+<area shape="rect" id="node1" title="signal_commandSubmitted is fired when a command is submitted by the user (e.g. after pressing return)..." alt="" coords="549,5,745,61"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_command_line_edit_1_1_command_line_edit_impl.html#ab20753eac6886e0d7887f682b7c46e91" title=" " alt="" coords="277,5,501,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_command_line_edit_1_1_command_line_edit_impl.html#a9f313221804bea6d6c15652c3408c4c3" title=" " alt="" coords="5,5,229,61"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="geometrize::RecentItems::signal_cleared" name="geometrize::RecentItems::signal_cleared">
+<area shape="rect" id="node1" title="signal_cleared is emitted after the recent items are cleared." alt="" coords="841,133,1028,174"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1_recent_items.html#ac1f6f944c80fd5bae9bc61bb9a0593e8" title="clear Removes all items from the recent items." alt="" coords="589,93,775,134"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a6a68d595906ba2d2c5fceb6d41f3f5f1" title=" " alt="" coords="571,161,793,217"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#ada2b285f488116b28e94451a845b026e" title=" " alt="" coords="287,5,523,61"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_launch_window.html#ae191794b904babea63ae0f0bfcd71fd3" title=" " alt="" coords="289,85,521,141"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#a324c750442f90c52a1f95b9d0180be48" title=" " alt="" coords="5,85,239,141"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1dialog_1_1_recent_tasks_list_1_1_recent_tasks_list_impl.html#a85e15d2f1ec13b35036637a4f779090f" title=" " alt="" coords="293,165,516,221"/>
+</map>

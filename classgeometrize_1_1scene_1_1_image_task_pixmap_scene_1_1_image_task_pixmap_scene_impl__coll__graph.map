@@ -1,0 +1,9 @@
+<map id="geometrize::scene::ImageTaskPixmapScene::ImageTaskPixmapSceneImpl" name="geometrize::scene::ImageTaskPixmapScene::ImageTaskPixmapSceneImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="832,71,1049,127"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_graphics_item.html" title="The ImageTaskPixmapGraphicsItem class models a pixmap graphic item that goes into the scene for an im..." alt="" coords="400,45,628,86"/>
+<area shape="rect" id="node3" title=" " alt="" coords="229,5,304,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="183,56,351,83"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1scene_1_1_image_task_pixmap_scene.html" title="The ImageTaskPixmapScene class models a graphics scene for viewing the pixmap&#45;based results of image ..." alt="" coords="424,110,604,151"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1scene_1_1_image_task_scene.html" title="The ImageTaskScene class models a graphics scene for viewing the results of image tasks." alt="" coords="191,110,342,151"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,117,133,144"/>
+</map>

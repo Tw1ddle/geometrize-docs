@@ -1,0 +1,9 @@
+<map id="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::syncUserInterface" name="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::syncUserInterface">
+<area shape="rect" id="node1" title=" " alt="" coords="5,181,227,252"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="293,5,475,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#a148bad17dfa93526878c9ab11f2fc9f1" title="getImageRunnerOptions Gets a copy of the image runner options." alt="" coords="290,71,478,127"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#ad0dedbcbb6e1a093e770df266836caad" title="getImageTaskMaxThreads Gets the maximum number of threads the image task should use." alt="" coords="275,151,493,207"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1task_1_1_image_task.html#a7732b8ba0a44b16296000eee7add86f8" title="getPreferences Gets a reference to the current preferences of this task." alt="" coords="279,232,489,273"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1dialog_1_1_range_slider.html#a0593d68cec9f8d6b7a336cffc70ed317" title=" " alt="" coords="279,297,489,339"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1dialog_1_1_range_slider.html#a9fa40ebcc546df455815e333f575b854" title=" " alt="" coords="279,363,489,404"/>
+</map>

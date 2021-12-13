@@ -1,0 +1,6 @@
+<map id="geometrize::script::bindings::customTabletEventDataToString" name="geometrize::script::bindings::customTabletEventDataToString">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,223,87"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1scene.html#ac729ef4c2a3d5bf355bcacb092cc7980" title="tabletEventDataToString Helper function to convert a structure of tablet event data to a string" alt="" coords="271,39,451,80"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1scene.html#aaf2f695cbd268f49ab173b88ef141768" title="tabletEventPointerTypeToString Helper function to convert a tablet event pointer type enum value to a..." alt="" coords="499,5,724,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1scene.html#a419f7bd5251693f2749506259e25e9ad" title="tabletEventTypeToString Helper function to convert a tablet event type enum value to a string" alt="" coords="522,71,701,112"/>
+</map>

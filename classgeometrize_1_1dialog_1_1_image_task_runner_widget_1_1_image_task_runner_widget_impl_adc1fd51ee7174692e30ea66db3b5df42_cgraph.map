@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::setShapes" name="geometrize::dialog::ImageTaskRunnerWidget::ImageTaskRunnerWidgetImpl::setShapes">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,227,149"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#a8720de9a1e595975da2d5c47ad122e55" title=" " alt="" coords="289,5,471,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#ac46a126a5fd1add7f47f8c346450eedd" title=" " alt="" coords="289,85,471,141"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1task_1_1_image_task.html#a7732b8ba0a44b16296000eee7add86f8" title="getPreferences Gets a reference to the current preferences of this task." alt="" coords="275,166,485,207"/>
+</map>

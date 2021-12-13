@@ -1,0 +1,9 @@
+<map id="geometrize::setLocaleAndUserInterfaceLanguage" name="geometrize::setLocaleAndUserInterfaceLanguage">
+<area shape="rect" id="node1" title="setLocaleAndUserInterfaceLanguage Sets the application locale and user interface language to the give..." alt="" coords="5,79,196,120"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="273,5,455,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a1575f5909e0ac2316cc09f3c8a0a2d61" title="setLanguageIsoCode Sets the ISO 639&#45;1 language preference for the application." alt="" coords="244,71,484,127"/>
+<area shape="rect" id="node4" href="$namespacegeometrize.html#a4f8596ce933d95737248f06465fd6ecf" title="installTranslatorsForLocale Installs translators for the application." alt="" coords="267,152,461,193"/>
+<area shape="rect" id="node5" href="$namespacegeometrize.html#ad405950062d0de117bb35b04aefefde4" title="getAppTranslationResourceDirectory Gets the resource path where translation files specific to the app..." alt="" coords="541,87,762,128"/>
+<area shape="rect" id="node6" href="$namespacegeometrize.html#af5be332ff9437b0c412cd330d2fa72f7" title="getBinaryTranslationFileExtension Gets the file extension for Qt binary translation files." alt="" coords="532,152,771,193"/>
+<area shape="rect" id="node7" href="$namespacegeometrize.html#a8e4d3d0210e99518cc671bb15f245ab7" title="getQtTranslationResourceDirectory Gets the resource path where translation files for Qt itself are st..." alt="" coords="546,217,757,259"/>
+</map>

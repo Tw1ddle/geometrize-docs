@@ -1,0 +1,4 @@
+<map id="geometrize::dialog::RunScriptDialog" name="geometrize::dialog::RunScriptDialog">
+<area shape="rect" id="node1" title="The RunScriptDialog class models the UI for picking scripts to run, and specifying script options." alt="" coords="5,80,149,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="40,5,115,32"/>
+</map>

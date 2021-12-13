@@ -1,0 +1,9 @@
+<map id="geometrize::script::bindings::fitWidgetsInGridOnPrimaryMonitor" name="geometrize::script::bindings::fitWidgetsInGridOnPrimaryMonitor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,204,83"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a13651d03dab6c0850313fac62c82367d" title="fitWidgetsInGridOnPrimaryMonitor Fits the given widgets into a grid on the primary monitor" alt="" coords="252,35,451,76"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a58411c9358f720df7d8247557cb3c4f5" title="fitWidgetsInGridOnMonitor Fits the given widgets into a grid on the given monitor" alt="" coords="499,35,697,76"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#ae47f256bd6c1e9af73a34d22cb4edeee" title="arrangeWidgetsInGridOnMonitor Arranges the given widgets into a grid on the given monitor" alt="" coords="745,35,928,76"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1util.html#ae4357dde0457dfac3d84c4deec5b4575" title="arrangeWidgetsInGrid Arranges the given widgets into a grid shape" alt="" coords="976,35,1159,76"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1util.html#a47ca8458eed8c720d7c76cad0192926a" title="setWidgetPosition Sets the widget to the given position." alt="" coords="1221,5,1419,47"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1util.html#a5ab695f344f7571a5caa8a60bf7964ad" title="setWidgetSize Sets the size of the given widget in pixels." alt="" coords="1207,71,1433,98"/>
+</map>

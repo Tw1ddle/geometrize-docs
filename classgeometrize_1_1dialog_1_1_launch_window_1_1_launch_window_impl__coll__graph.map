@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::LaunchWindow::LaunchWindowImpl" name="geometrize::dialog::LaunchWindow::LaunchWindowImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="9,200,272,241"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_launch_window.html" title="The LaunchWindow class models the UI for a launchpad for opening new task templates and recent tasks." alt="" coords="69,96,213,137"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,13,121,39"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1script_1_1_command_handler.html" title="The CommandHandler class provides an interface that all objects that can handle/process script comman..." alt="" coords="145,5,293,47"/>
+</map>

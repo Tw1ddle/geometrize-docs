@@ -1,0 +1,24 @@
+<map id="geometrize::script::bindings::createImageTaskWindowBindings" name="geometrize::script::bindings::createImageTaskWindowBindings">
+<area shape="rect" id="node1" title="createImageTaskWindowBindings Creates the Chaiscript to C++ binding for the Geometrize image task win..." alt="" coords="5,245,209,301"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script_1_1bindings.html#ae309b17f3b0dc9a6f1fffe96364882e0" title=" " alt="" coords="272,5,485,61"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1script_1_1bindings.html#a1b9e6e5baa151f010e12bc8d31f82e42" title=" " alt="" coords="272,85,485,141"/>
+<area shape="rect" id="node10" href="$namespacegeometrize_1_1script_1_1bindings.html#afd53669edbf079e509c492766ae2674c" title=" " alt="" coords="262,165,495,221"/>
+<area shape="rect" id="node13" href="$namespacegeometrize_1_1script_1_1bindings.html#a6597bac1aedba25c99289147991a74f3" title=" " alt="" coords="277,245,481,301"/>
+<area shape="rect" id="node14" href="$namespacegeometrize_1_1script_1_1bindings.html#a73c0ff575130b2468a68a72140e01704" title=" " alt="" coords="264,325,493,381"/>
+<area shape="rect" id="node17" href="$namespacegeometrize_1_1script_1_1bindings.html#aecfa247d470802f25cd5fff7c035f6a7" title=" " alt="" coords="264,405,493,461"/>
+<area shape="rect" id="node20" href="$namespacegeometrize_1_1script_1_1bindings.html#a7b410da6fc447ea47d86ee631a0cb803" title=" " alt="" coords="257,486,500,527"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a0322b9bbe0ca186741d04bdf904d9ce6" title="arrangeImageTaskWidgetsInGrid Arranges all the open image task widgets into a grid shape" alt="" coords="1195,27,1379,69"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#ae4357dde0457dfac3d84c4deec5b4575" title="arrangeWidgetsInGrid Arranges the given widgets into a grid shape" alt="" coords="1692,103,1875,145"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1util.html#a47ca8458eed8c720d7c76cad0192926a" title="setWidgetPosition Sets the widget to the given position." alt="" coords="1937,74,2135,115"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1util.html#a5ab695f344f7571a5caa8a60bf7964ad" title="setWidgetSize Sets the size of the given widget in pixels." alt="" coords="1923,140,2149,167"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1util.html#a4e0a83c08843b23ee55aa4103e234bd7" title="arrangeImageTaskWidgetsInGridOnMonitor Arranges all the open image task widgets into a grid on the gi..." alt="" coords="1161,98,1413,139"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1util.html#ae47f256bd6c1e9af73a34d22cb4edeee" title="arrangeWidgetsInGridOnMonitor Arranges the given widgets into a grid on the given monitor" alt="" coords="1461,133,1644,174"/>
+<area shape="rect" id="node11" href="$namespacegeometrize_1_1util.html#a2e40a3bf67fa32ce47c593d902507ec6" title="arrangeImageTaskWidgetsInGridOnPrimaryMonitor Arranges all the open image task widgets into a grid on..." alt="" coords="553,165,806,221"/>
+<area shape="rect" id="node12" href="$namespacegeometrize_1_1util.html#adeaf809222700c4560ffb82b0a524d01" title="arrangeWidgetsInGridOnPrimaryMonitor Arranges the given widgets into a grid on the primary monitor" alt="" coords="1171,165,1404,206"/>
+<area shape="rect" id="node15" href="$namespacegeometrize_1_1util.html#ad37f3e23925ebe1d9b3bbc7aeed453d4" title="fitImageTaskWidgetsInGridOnMonitor Fits all of the open image task widgets into a grid on the given m..." alt="" coords="881,333,1091,374"/>
+<area shape="rect" id="node16" href="$namespacegeometrize_1_1util.html#a58411c9358f720df7d8247557cb3c4f5" title="fitWidgetsInGridOnMonitor Fits the given widgets into a grid on the given monitor" alt="" coords="1188,333,1387,374"/>
+<area shape="rect" id="node18" href="$namespacegeometrize_1_1util.html#adb96da0ad5bb90167d9c978b4d946c21" title="fitImageTaskWidgetsInGridOnPrimaryMonitor Fits all of the open image task widgets into a grid on the ..." alt="" coords="548,407,811,449"/>
+<area shape="rect" id="node19" href="$namespacegeometrize_1_1util.html#a13651d03dab6c0850313fac62c82367d" title="fitWidgetsInGridOnPrimaryMonitor Fits the given widgets into a grid on the primary monitor" alt="" coords="887,402,1085,443"/>
+<area shape="rect" id="node21" href="$classgeometrize_1_1dialog_1_1_image_task_window.html#aaccc3ca0e9f5a1b3d4ee5a89fc966daf" title="getExistingImageTaskWindows Gets all of the existing image task windows." alt="" coords="563,479,795,535"/>
+<area shape="rect" id="node22" href="$classgeometrize_1_1dialog_1_1_image_task_window_1_1_image_task_window_impl.html#aee3a2c4193c559b6aaf2cc2fbb8ce145" title=" " alt="" coords="859,471,1113,542"/>
+</map>

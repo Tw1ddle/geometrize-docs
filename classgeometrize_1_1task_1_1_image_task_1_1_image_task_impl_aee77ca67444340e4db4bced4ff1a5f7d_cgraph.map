@@ -1,0 +1,11 @@
+<map id="geometrize::task::ImageTask::ImageTaskImpl::stepModel" name="geometrize::task::ImageTask::ImageTaskImpl::stepModel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,210,216,251"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a12c18f52294625b72f5d57abea2f43fd" title="getEngine Gets a pointer to the script engine used by the shape mutation engine." alt="" coords="292,5,447,61"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#a148bad17dfa93526878c9ab11f2fc9f1" title="getImageRunnerOptions Gets a copy of the image runner options." alt="" coords="275,85,463,141"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#ae4652aa3be1a826afcdfbf9c0516e5bf" title=" " alt="" coords="279,165,460,221"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1task_1_1_image_task_worker.html#a26accddf779640aaf60c2ad75781ced2" title="getTarget Gets the current target bitmap." alt="" coords="264,246,475,287"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a16b4e51de4cc5c5ec46bd57a229fc71a" title=" " alt="" coords="292,312,447,368"/>
+<area shape="rect" id="node9" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html#a20ef44633f3487dadd3243324d2c1c82" title=" " alt="" coords="279,392,460,448"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a9303836fbd3da86aa0bb463dd499fb8d" title=" " alt="" coords="523,312,725,368"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a6089445d9edc1b8afdd7c6b5c3a5cad7" title=" " alt="" coords="773,312,973,368"/>
+</map>

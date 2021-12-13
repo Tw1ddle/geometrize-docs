@@ -1,0 +1,5 @@
+<map id="geometrize::task::ImageTask::signal_modelDidStep" name="geometrize::task::ImageTask::signal_modelDidStep">
+<area shape="rect" id="node1" title="signal_modelDidStep Signal that is emitted immediately after the underlying image task model is stepp..." alt="" coords="287,43,497,84"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_image_task_1_1_image_task_impl.html#aef254396df42404c2f1dcba31bb619e3" title=" " alt="" coords="7,5,237,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1dialog_1_1_launch_window_1_1_launch_window_impl.html#afaf2ce42e247c7cb9652c940fff48308" title=" " alt="" coords="5,71,239,127"/>
+</map>

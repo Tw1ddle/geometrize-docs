@@ -1,0 +1,4 @@
+<map id="geometrize::script::bindings::split" name="geometrize::script::bindings::split">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a2acc2df83d1b847a57bc59020ea4c9b4" title="split Splits a given string into a vector of tokens using the given delimiter." alt="" coords="193,13,355,39"/>
+</map>

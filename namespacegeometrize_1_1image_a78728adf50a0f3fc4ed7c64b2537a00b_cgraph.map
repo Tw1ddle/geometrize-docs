@@ -1,0 +1,4 @@
+<map id="geometrize::image::createPixmap" name="geometrize::image::createPixmap">
+<area shape="rect" id="node1" title="createPixmap Creates a pixmap from the bitmap data object. Assumes RGBA8888 format." alt="" coords="5,5,159,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1image.html#a734fd75fa79fe16ed4e6a83e58d921c1" title="createImage Creates an image from the bitmap data object. Assumes RGBA8888 format." alt="" coords="207,5,360,47"/>
+</map>

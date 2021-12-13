@@ -1,0 +1,9 @@
+<map id="geometrize::task::ImageTask::ImageTaskImpl" name="geometrize::task::ImageTask::ImageTaskImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="664,97,875,139"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html" title="The GeometrizerEngine class encapsulates script&#45;based setup and mutation methods for geometrizing sha..." alt="" coords="329,123,484,164"/>
+<area shape="rect" id="node3" title=" " alt="" coords="91,67,166,94"/>
+<area shape="rect" id="node6" href="$classgeometrize_1_1task_1_1_image_task.html" title="The ImageTask class transforms a source image into a collection of shapes approximating the source im..." alt="" coords="301,71,512,98"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1task_1_1_image_task_worker.html" title="The ImageTaskWorker class transforms a source image into a collection of shapes. It is made to be run..." alt="" coords="301,5,512,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,127,252,168"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1preferences_1_1_image_task_preferences.html" title="The ImageTaskPreferences class models the preferences associated with an image task." alt="" coords="316,188,497,229"/>
+</map>

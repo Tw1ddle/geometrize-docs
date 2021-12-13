@@ -1,0 +1,7 @@
+<map id="geometrize::script::bindings::createTabletEventBindings" name="geometrize::script::bindings::createTabletEventBindings">
+<area shape="rect" id="node1" title="createTabletEventBindings Creates the Chaiscript to C++ bindings for tablet events (e...." alt="" coords="5,31,216,87"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script_1_1bindings.html#a04076625fe9b4510e43835915788ce23" title=" " alt="" coords="264,31,481,87"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1scene.html#ac729ef4c2a3d5bf355bcacb092cc7980" title="tabletEventDataToString Helper function to convert a structure of tablet event data to a string" alt="" coords="529,39,709,80"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1scene.html#aaf2f695cbd268f49ab173b88ef141768" title="tabletEventPointerTypeToString Helper function to convert a tablet event pointer type enum value to a..." alt="" coords="757,5,983,47"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1scene.html#a419f7bd5251693f2749506259e25e9ad" title="tabletEventTypeToString Helper function to convert a tablet event type enum value to a string" alt="" coords="781,71,959,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometrize::util::getCursorX" name="geometrize::util::getCursorX">
+<area shape="rect" id="node1" title="getCursorX Gets the x&#45;coordinate of the cursor in global screen coordinates." alt="" coords="748,20,953,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script_1_1bindings.html#ac4eb290bdef2168ac1b9711e97f26820" title=" " alt="" coords="535,13,700,54"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1script_1_1bindings.html#afa131974a7b7809127e849297e0dddb4" title="createUserInterfacePuppeteerBindings Creates ChaiScript to C++ bindings for driving the user interfac..." alt="" coords="264,5,487,61"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script.html#aefd5a4a0ceab73c664e53cc4bd28513b" title="createFunctionalTestRunnerEngine Creates a Chaiscript engine object for running functional tests." alt="" coords="5,5,216,61"/>
+</map>

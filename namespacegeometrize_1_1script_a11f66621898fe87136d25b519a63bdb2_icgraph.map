@@ -1,0 +1,4 @@
+<map id="geometrize::script::createDefaultEngine" name="geometrize::script::createDefaultEngine">
+<area shape="rect" id="node1" title="createDefaultEngine Creates a default Chaiscript engine object, with the default bindings (Geometrize..." alt="" coords="193,5,356,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script.html#a28d8ceeb1aeff22ec45f8b5ae304145b" title="runScript Evaluates the provided script code, creating a fresh engine to evaluate the script." alt="" coords="5,5,145,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="geometrize::dialog::TaskItemWidget::TaskItemWidgetImpl::onContextMenuEvent" name="geometrize::dialog::TaskItemWidget::TaskItemWidgetImpl::onContextMenuEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,251,119"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#aeb29ac1ed6232b6d9bef2a20ce0bbacb" title="openInDefaultApplication Opens the given path in the default application." alt="" coords="307,5,485,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#a801ac7b7e540f2d7440df81a6b35b495" title="revealInDefaultApplication Reveals the given path in the parent folder (or path with the filename tri..." alt="" coords="309,71,483,112"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1util.html#a1345a38a1639568221d7abd231b1e45b" title="setClipboardText Sets the global system clipboard text." alt="" coords="299,136,493,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="geometrize::getGlobalPreferencesLocale" name="geometrize::getGlobalPreferencesLocale">
+<area shape="rect" id="node1" title="getGlobalPreferencesLocale Gets a QLocale instance based on the current settings in global preference..." alt="" coords="5,5,249,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="297,5,479,47"/>
+</map>

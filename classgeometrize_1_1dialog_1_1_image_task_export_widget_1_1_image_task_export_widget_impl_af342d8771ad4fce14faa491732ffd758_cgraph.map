@@ -1,0 +1,7 @@
+<map id="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl::saveGIF" name="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl::saveGIF">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,223,164"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#ade32bca1ca73885f7d93466551f2e4cf" title="exportGIF Exports shape data to a GIF image." alt="" coords="319,5,477,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1task_1_1_image_task.html#acbd31aa875c8d03899ed0474db29e866" title="getCurrent Gets the current bitmap, const&#45;edition." alt="" coords="293,71,503,112"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1common_1_1ui.html#a5477b07c6a402b632ccab666d80fc96c" title=" " alt="" coords="297,137,499,193"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a096aa8c62f778b2c3d16416404d1bb72" title=" " alt="" coords="271,217,525,288"/>
+</map>

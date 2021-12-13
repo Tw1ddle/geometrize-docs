@@ -1,0 +1,5 @@
+<map id="geometrize::dialog::WelcomeWindow::on_showOnLaunchCheckbox_clicked" name="geometrize::dialog::WelcomeWindow::on_showOnLaunchCheckbox_clicked">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,196,76"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1dialog.html#a29e2623a58b1bec29ecfc68b75386d41" title=" " alt="" coords="244,20,497,61"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="545,20,727,61"/>
+</map>

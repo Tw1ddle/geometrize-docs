@@ -1,0 +1,5 @@
+<map id="geometrize::TabletProximityEventFilter::signal_onTabletLeaveProximity" name="geometrize::TabletProximityEventFilter::signal_onTabletLeaveProximity">
+<area shape="rect" id="node1" title="signal_onTabletLeaveProximity Signal dispatched when a Wacom tablet leave proximity event is received" alt="" coords="292,35,532,91"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1_tablet_proximity_event_filter.html#a29d651607ff5e7b24b24522f78296b32" title=" " alt="" coords="21,5,228,47"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1_tablet_proximity_event_filter.html#a7e6a1d0e5093f2ab1f7f400e3027feb1" title=" " alt="" coords="5,71,244,127"/>
+</map>

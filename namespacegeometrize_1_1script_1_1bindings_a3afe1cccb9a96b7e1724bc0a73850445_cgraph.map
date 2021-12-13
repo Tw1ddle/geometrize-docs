@@ -1,0 +1,21 @@
+<map id="geometrize::script::bindings::openTask" name="geometrize::script::bindings::openTask">
+<area shape="rect" id="node1" title=" " alt="" coords="5,207,160,248"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#ae939426542a7bc553664ad478d469dd6" title=" " alt="" coords="208,214,409,241"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1util.html#aaf548052cabd145795f305bdfd09cbdd" title=" " alt="" coords="457,214,652,241"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1_recent_items.html#ac1044acae9887332ec88ee4e6ec45639" title="add Adds an item to the recent items." alt="" coords="714,17,933,43"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1task.html#ac0bfc53fdad44e7bc5594aa24f45965f" title="createImageTaskAndWindow Creates an image task, and immediately creates a graphical window for manipu..." alt="" coords="1257,213,1439,255"/>
+<area shape="rect" id="node14" href="$namespacegeometrize_1_1network.html#ae5c656efe1a0769f5b8f80199d90ea5f" title="downloadImage Downloads an image over the network." alt="" coords="1023,205,1181,247"/>
+<area shape="rect" id="node15" href="$namespacegeometrize_1_1network.html#ab8f2a065f2194826a753e7caa2db332d" title="downloadWebpage Downloads a whole webpage over the network." alt="" coords="745,173,902,215"/>
+<area shape="rect" id="node16" href="$namespacegeometrize_1_1format.html#adaae9effa2769c62e909017155ea1a87" title="getReadableImageFileExtensions Gets the lower&#45;case image file extensions that have read support." alt="" coords="700,239,947,280"/>
+<area shape="rect" id="node17" href="$namespacegeometrize.html#af51abd38b57d1666feaadb228ee6cb01" title="getRecentItems Gets a reference to the recent files list." alt="" coords="720,305,927,331"/>
+<area shape="rect" id="node18" href="$namespacegeometrize_1_1network_1_1completionhandlers.html#a7ec8003e0f83547839bfb331747d8b01" title="onImageDownloadComplete A callback when an image download completes." alt="" coords="995,355,1209,411"/>
+<area shape="rect" id="node19" href="$namespacegeometrize_1_1network_1_1completionhandlers.html#a7fc217dc1ab96c13adf918612fd01d7a" title="onWebpageDownloadComplete A callback when a webpage download completes." alt="" coords="706,355,941,411"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1_recent_items.html#a43054aa813db887cc3a6865a8eaccfaa" title="remove Removes an item from the recent items." alt="" coords="1009,5,1195,47"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1image.html#acbeb2b0bb2bb36587d78e3e2763f1596" title="imageToBitmapWithDownscaling Creates a bitmap data object from the given image, downscaling in the pr..." alt="" coords="1487,115,1773,156"/>
+<area shape="rect" id="node11" href="$namespacegeometrize_1_1image.html#a9f6810d4b6c7f4577c78c3e9e21f88a4" title="loadImage Loads an image from the image at the file path. Converts to RGBA8888 format." alt="" coords="1553,180,1707,221"/>
+<area shape="rect" id="node12" href="$classgeometrize_1_1dialog_1_1_image_task_window.html#a5ee1d6af2acb7f2137201eaed0fb0b82" title="setImageTask Sets the current image task shown by the window." alt="" coords="1505,245,1755,287"/>
+<area shape="rect" id="node13" href="$classgeometrize_1_1task_1_1_image_task.html#a7e6baaa53b47e96027c7e8c6f22e95bc" title="setPreferences Sets the preferences for this task." alt="" coords="1525,311,1735,352"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1image.html#a34c68ca07c67683a6ce957150a38de29" title="createBitmap Creates a bitmap data object from the given image." alt="" coords="1854,49,2007,91"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="1840,115,2021,156"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1preferences_1_1_global_preferences.html#a6f55fb065452504e93dc03b72218b49c" title="getImageTaskResizeThreshold Gets the maximum dimensions of an image that can be used in an image task..." alt="" coords="1821,181,2040,237"/>
+</map>

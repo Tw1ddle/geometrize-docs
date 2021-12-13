@@ -1,0 +1,6 @@
+<map id="geometrize::script::bindings::customTabletEventDataToString" name="geometrize::script::bindings::customTabletEventDataToString">
+<area shape="rect" id="node1" title=" " alt="" coords="721,5,939,61"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script_1_1bindings.html#a3922e5247b95bc5e8f64a26bcc108dfc" title="createTabletEventBindings Creates the Chaiscript to C++ bindings for tablet events (e...." alt="" coords="463,5,673,61"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1script.html#a80a470dfad9b67b45606269366a7dd67" title="createShapeMutatorEngine Creates a Chaiscript engine object for mutating shapes." alt="" coords="208,13,415,54"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1script_1_1_geometrizer_engine.html#a33f4e0f89cf75caf62ad73d1b95eb420" title=" " alt="" coords="5,5,160,61"/>
+</map>

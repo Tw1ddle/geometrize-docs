@@ -1,0 +1,4 @@
+<map id="geometrize::script::bindings::saveWidgetScreenshot" name="geometrize::script::bindings::saveWidgetScreenshot">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1util.html#a41239398bec724855b8b69e31b85db95" title="saveWidgetScreenshot Takes a screenshot of the given widget and saves it as a .png image to the given..." alt="" coords="296,5,507,47"/>
+</map>

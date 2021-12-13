@@ -1,0 +1,8 @@
+<map id="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl::saveGeometryData" name="geometrize::dialog::ImageTaskExportWidget::ImageTaskExportWidgetImpl::saveGeometryData">
+<area shape="rect" id="node1" title=" " alt="" coords="5,108,223,179"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1exporter.html#ab05a0c3c2338472884a6dfdd9c34a86d" title="exportShapeData Exports shape data to a specified format (JSON or a custom textual array format)." alt="" coords="319,5,477,47"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1common_1_1ui.html#a52276bad78cbbb97c3c0bd767cd5b18f" title=" " alt="" coords="293,71,503,127"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1dialog_1_1_image_task_export_widget_1_1_image_task_export_widget_impl.html#a096aa8c62f778b2c3d16416404d1bb72" title=" " alt="" coords="271,152,525,223"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1util.html#a1d1774f14a6c88ac9aba6918d200232b" title="writeStringToFile Writes the string to the file path, attempting to overwrite any existing file at th..." alt="" coords="296,247,500,288"/>
+<area shape="rect" id="node6" href="$namespacechaiscript_1_1extras_1_1math.html#a746295e01b057c84793a2e8356eda00e" title=" " alt="" coords="573,247,708,288"/>
+</map>

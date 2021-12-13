@@ -1,0 +1,52 @@
+<map id="geometrize::script::createBatchImageTaskEngine" name="geometrize::script::createBatchImageTaskEngine">
+<area shape="rect" id="node1" title="createBatchImageTaskEngine Creates a Chaiscript engine for creating and processing multiple image tas..." alt="" coords="5,1699,228,1741"/>
+<area shape="rect" id="node2" href="$namespacegeometrize_1_1script_1_1bindings.html#a8a31b9b900f948f767e684ce3b4cf9e9" title="createDefaultBindings Creates the default Chaiscript to C++ bindings." alt="" coords="276,1479,515,1521"/>
+<area shape="rect" id="node45" href="$namespacegeometrize_1_1script_1_1bindings.html#a46d0b7752c037c6b98c8e2e38c32ee36" title="createGeometrizeLibraryBindings Creates the Chaiscript to C++ bindings for all of the functionality i..." alt="" coords="290,1545,501,1601"/>
+<area shape="rect" id="node46" href="$namespacegeometrize_1_1script_1_1bindings.html#a14605faf981de65a99119755d11401e9" title="createImageBindings Creates the Chaiscript to C++ bindings for image manipulation." alt="" coords="280,1626,511,1667"/>
+<area shape="rect" id="node47" href="$namespacegeometrize_1_1script_1_1bindings.html#a05e9be1b7644325fb0b5a23e96c4da22" title="createImageExportBindings Creates the Chaiscript to C++ bindings for saving images." alt="" coords="287,1692,504,1748"/>
+<area shape="rect" id="node48" href="$namespacegeometrize_1_1script_1_1bindings.html#a8601bdc92f1e33fc44d54b1d65643b05" title="createImageTaskBindings Creates the Chaiscript to C++ bindings for Geometrize image tasks." alt="" coords="293,1772,497,1828"/>
+<area shape="rect" id="node49" href="$namespacegeometrize_1_1script_1_1bindings.html#a40f1192830e126c36bc6c949df623718" title="createImageTaskWindowBindings Creates the Chaiscript to C++ binding for the Geometrize image task win..." alt="" coords="293,1852,497,1908"/>
+<area shape="rect" id="node50" href="$namespacegeometrize_1_1script_1_1bindings.html#a9b86577cdb4939f2744697b468119fbb" title="createSynchronousImageTaskBindings Creates the Chaiscript to C++ bindings for synchronous Geometrize ..." alt="" coords="287,1932,504,1988"/>
+<area shape="rect" id="node3" href="$namespacegeometrize_1_1script_1_1bindings.html#a5394f119ad0c273c38131f41d7e900a8" title=" " alt="" coords="580,5,804,61"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1script_1_1bindings.html#a8f54ffd1723888607addaa7e910949e9" title=" " alt="" coords="580,85,804,141"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1script_1_1bindings.html#a6ef0d93075502062a75db22dd85ad916" title=" " alt="" coords="622,166,762,207"/>
+<area shape="rect" id="node6" href="$namespacegeometrize_1_1script_1_1bindings.html#a18a923039ade1e0d4e345d949daa7a72" title=" " alt="" coords="609,231,775,273"/>
+<area shape="rect" id="node7" href="$namespacegeometrize_1_1script_1_1bindings.html#a5987ca19dbe9de3af5fb85a625dcebad" title=" " alt="" coords="617,297,767,338"/>
+<area shape="rect" id="node8" href="$namespacegeometrize_1_1script_1_1bindings.html#ab813fede479717369ebf5de00abde0b3" title=" " alt="" coords="577,362,807,403"/>
+<area shape="rect" id="node9" href="$namespacegeometrize_1_1script_1_1bindings.html#ab2e869f22705672999516e25c7adae1d" title=" " alt="" coords="595,427,789,469"/>
+<area shape="rect" id="node10" href="$namespacegeometrize_1_1script_1_1bindings.html#af1407e57617c1c688a5ad8f8cd5972c4" title=" " alt="" coords="607,493,777,534"/>
+<area shape="rect" id="node11" href="$namespacegeometrize_1_1script_1_1bindings.html#a5fbfb8174ed80c490af4aa4fd37994df" title=" " alt="" coords="595,558,789,599"/>
+<area shape="rect" id="node12" href="$namespacegeometrize_1_1script_1_1bindings.html#af39c815b76d2c6e2af44dc9a680c9376" title=" " alt="" coords="577,623,807,665"/>
+<area shape="rect" id="node13" href="$namespacegeometrize_1_1script_1_1bindings.html#a667a0b2d0756ceb4e7ff47de7dace4d2" title=" " alt="" coords="597,689,787,730"/>
+<area shape="rect" id="node14" href="$namespacegeometrize_1_1script_1_1bindings.html#a7fa63bbc40eefa2f8856a00c17224da9" title=" " alt="" coords="616,754,768,795"/>
+<area shape="rect" id="node15" href="$namespacegeometrize_1_1script_1_1bindings.html#afff588ea5fdf8a640fe767f4d7eacbff" title=" " alt="" coords="569,820,815,876"/>
+<area shape="rect" id="node16" href="$namespacegeometrize_1_1script_1_1bindings.html#afeb311e467c883e33ebb62e33916374e" title=" " alt="" coords="565,900,819,956"/>
+<area shape="rect" id="node17" href="$namespacegeometrize_1_1script_1_1bindings.html#a4a9eef8c320750c9225173d988ee4538" title=" " alt="" coords="577,981,807,1022"/>
+<area shape="rect" id="node18" href="$namespacegeometrize_1_1script_1_1bindings.html#a40931c8838e347fae81ca55173c1050a" title=" " alt="" coords="579,1046,805,1087"/>
+<area shape="rect" id="node19" href="$namespacegeometrize_1_1script_1_1bindings.html#ac8569dcab098fe077f4e5412b485f0da" title=" " alt="" coords="599,1112,785,1168"/>
+<area shape="rect" id="node20" href="$namespacegeometrize_1_1script_1_1bindings.html#aa71af77de81bb94a6f6e43a539932121" title=" " alt="" coords="599,1192,785,1248"/>
+<area shape="rect" id="node21" href="$namespacegeometrize_1_1script_1_1bindings.html#a0036f3082a39ab94ec63c098a28c6051" title=" " alt="" coords="576,1272,808,1328"/>
+<area shape="rect" id="node22" href="$namespacegeometrize_1_1script_1_1bindings.html#a5a97f0a32679fccbb3d2f0e09a40658f" title=" " alt="" coords="578,1352,806,1408"/>
+<area shape="rect" id="node23" href="$namespacegeometrize_1_1script_1_1bindings.html#a16edf9783f6f31dc54a1aaf7e71a215b" title=" " alt="" coords="595,1432,789,1488"/>
+<area shape="rect" id="node24" href="$namespacegeometrize_1_1script_1_1bindings.html#a3e0cab3350f31d4c7083619a4bd1bcc4" title=" " alt="" coords="594,1512,790,1568"/>
+<area shape="rect" id="node25" href="$namespacegeometrize_1_1script_1_1bindings.html#a67bc235b48233aceef9855823f63fb3c" title=" " alt="" coords="568,1593,816,1634"/>
+<area shape="rect" id="node26" href="$namespacegeometrize_1_1script_1_1bindings.html#ad27f24b1fcf07f421c2254a4bd763707" title=" " alt="" coords="596,1659,788,1715"/>
+<area shape="rect" id="node27" href="$namespacegeometrize_1_1script_1_1bindings.html#ac5aba9733cfd3b8b6cb705d1724f4619" title=" " alt="" coords="573,1739,811,1781"/>
+<area shape="rect" id="node28" href="$namespacegeometrize_1_1script_1_1bindings.html#a6d243491ff65bf14aeb265df455940a2" title=" " alt="" coords="869,1769,1115,1810"/>
+<area shape="rect" id="node29" href="$namespacegeometrize_1_1script_1_1bindings.html#a62f0455bd88c29b74daf6eef849798e0" title=" " alt="" coords="595,1856,789,1912"/>
+<area shape="rect" id="node30" href="$namespacegeometrize_1_1script_1_1bindings.html#ab3781cd05c1af9eb9b67d36b890d0f8c" title=" " alt="" coords="595,1936,789,1992"/>
+<area shape="rect" id="node31" href="$namespacegeometrize_1_1script_1_1bindings.html#aa5a3959bf1ddeaca536cb734fd99f819" title=" " alt="" coords="565,2017,819,2058"/>
+<area shape="rect" id="node32" href="$namespacegeometrize_1_1script_1_1bindings.html#a9099e433f1b0c79cc4730463242e50e6" title=" " alt="" coords="569,2082,815,2123"/>
+<area shape="rect" id="node33" href="$namespacegeometrize_1_1script_1_1bindings.html#a0aef22033163944bb34b0064092191ce" title=" " alt="" coords="585,2148,799,2204"/>
+<area shape="rect" id="node34" href="$namespacegeometrize_1_1script_1_1bindings.html#a1cd0420f083e5157394fa5cc4ad57986" title=" " alt="" coords="579,2228,805,2284"/>
+<area shape="rect" id="node35" href="$namespacegeometrize_1_1script_1_1bindings.html#a5503643353e9a10af6350f6ee11e62c7" title=" " alt="" coords="595,2308,789,2364"/>
+<area shape="rect" id="node36" href="$namespacegeometrize_1_1script_1_1bindings.html#a8c695ba58628ddd9fc20f3443e1e6f8d" title=" " alt="" coords="589,2389,795,2430"/>
+<area shape="rect" id="node37" href="$namespacegeometrize_1_1script_1_1bindings.html#aa3316f36ab34931fa33a637f8e82dfb6" title=" " alt="" coords="585,2454,799,2495"/>
+<area shape="rect" id="node38" href="$namespacegeometrize_1_1script_1_1bindings.html#ad4c2000afbc7d060a553df985683da8e" title=" " alt="" coords="581,2520,803,2576"/>
+<area shape="rect" id="node39" href="$namespacegeometrize_1_1script_1_1bindings.html#a0c5364214d1ca670a29089b2a03f693f" title=" " alt="" coords="581,2600,803,2656"/>
+<area shape="rect" id="node40" href="$namespacegeometrize_1_1script_1_1bindings.html#a98b94c437a8e0ddbaca30c4445edea45" title=" " alt="" coords="583,2680,801,2736"/>
+<area shape="rect" id="node41" href="$namespacegeometrize_1_1script_1_1bindings.html#add08550322227b709f8fdf4e3253cb3d" title=" " alt="" coords="601,2761,783,2802"/>
+<area shape="rect" id="node42" href="$namespacegeometrize_1_1script_1_1bindings.html#a6ce0c9c5de622d40ccd6fdc9616b64c2" title=" " alt="" coords="584,2826,800,2867"/>
+<area shape="rect" id="node43" href="$namespacegeometrize_1_1script_1_1bindings.html#a4bc3d0c0b7d54d135c3f4526d3b07edd" title=" " alt="" coords="603,2891,781,2933"/>
+<area shape="rect" id="node44" href="$namespacegeometrize_1_1script_1_1bindings.html#a1ad7570047e69b8488c600c6aa8fbf19" title=" " alt="" coords="563,2957,821,2998"/>
+</map>

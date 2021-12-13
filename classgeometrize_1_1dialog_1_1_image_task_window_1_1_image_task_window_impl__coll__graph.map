@@ -1,0 +1,12 @@
+<map id="geometrize::dialog::ImageTaskWindow::ImageTaskWindowImpl" name="geometrize::dialog::ImageTaskWindow::ImageTaskWindowImpl">
+<area shape="rect" id="node1" title=" " alt="" coords="616,100,845,156"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1task_1_1_shape_collection.html" title="The ShapeCollection class is a wrapper for the vector of shapes that have been added to the image tas..." alt="" coords="203,5,448,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="42,56,117,83"/>
+<area shape="rect" id="node4" href="$classgeometrize_1_1task_1_1_image_task.html" title="The ImageTask class transforms a source image into a collection of shapes approximating the source im..." alt="" coords="220,56,431,83"/>
+<area shape="rect" id="node10" href="$classgeometrize_1_1scene_1_1_image_task_scene_manager.html" title="The ImageTaskSceneManager manages the scenes representing the graphical state of the shapes It mostly..." alt="" coords="231,107,419,149"/>
+<area shape="rect" id="node5" href="$classgeometrize_1_1dialog_1_1_image_task_window.html" title="The ImageTaskWindow class encapsulates the UI for manipiulating, running and viewing an image task th..." alt="" coords="249,173,401,214"/>
+<area shape="rect" id="node6" title=" " alt="" coords="21,127,137,153"/>
+<area shape="rect" id="node7" href="$classgeometrize_1_1script_1_1_command_handler.html" title="The CommandHandler class provides an interface that all objects that can handle/process script comman..." alt="" coords="5,178,153,219"/>
+<area shape="rect" id="node8" href="$classgeometrize_1_1scene_1_1_image_task_graphics_view.html" title="The ImageTaskGraphicsView class models a graphics view for viewing the images and shapes used and/or ..." alt="" coords="235,238,416,279"/>
+<area shape="rect" id="node9" title=" " alt="" coords="19,245,140,272"/>
+</map>

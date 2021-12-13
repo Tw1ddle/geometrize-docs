@@ -1,0 +1,7 @@
+<map id="geometrize::dialog::WelcomeWindow::WelcomeWindow" name="geometrize::dialog::WelcomeWindow::WelcomeWindow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,267,80"/>
+<area shape="rect" id="node2" href="$classgeometrize_1_1dialog_1_1_welcome_window.html#a7ff0ebb14e8234c32199ee7c01bc33e1" title=" " alt="" coords="321,5,541,47"/>
+<area shape="rect" id="node4" href="$namespacegeometrize_1_1dialog.html#a33834ea9fb7b957ff03f6e95b8bbc574" title=" " alt="" coords="315,71,547,112"/>
+<area shape="rect" id="node3" href="$classgeometrize_1_1strings_1_1_strings.html#a65934777fa218e04434654d9f0455fbe" title="getApplicationName Gets the name of the application." alt="" coords="595,5,811,47"/>
+<area shape="rect" id="node5" href="$namespacegeometrize_1_1preferences.html#a805a97125a4495763185642f61669c97" title="getGlobalPreferences Shorthand function that gets a reference to the shared global preferences object..." alt="" coords="612,71,793,112"/>
+</map>
